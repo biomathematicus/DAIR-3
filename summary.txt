@@ -1,0 +1,3837 @@
+Summary for extracted_forms\ESF\C13CELB1.pdf:
+ARIC Data Book  Page 1 of 17 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:00  Cohort
+----------------------------------------
+Summary for extracted_forms\ESF\C13CEMB1.pdf:
+ARIC Data Book  Page 1 of 29 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:00  ECG  
+
+----------------------------------------
+Summary for extracted_forms\ESF\C13CHIA1.pdf:
+ARIC Data Book  Page 1 of 14 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Surveillance  
+ 
+ 
+__________________________ _____________________________________________________________________________________________________________________________ __________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:00  Common Hospi
+----------------------------------------
+Summary for extracted_forms\ESF\C13CORA1.pdf:
+ARIC Data Book  Page 1 of 13 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:00  Corone
+----------------------------------------
+Summary for extracted_forms\ESF\C13DERV1.pdf:
+ARIC Data Book  Page 1 of 3 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 09:28  Cohort Surveil
+----------------------------------------
+Summary for extracted_forms\ESF\C13DTHA1.pdf:
+ARIC Data Book  Page 1 of 10 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:08  Death 
+----------------------------------------
+Summary for extracted_forms\ESF\C13EVT1.pdf:
+ARIC Data Book  Page 1 of 4 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:08  Cohort 
+----------------------------------------
+Summary for extracted_forms\ESF\C13HDXA1.pdf:
+JHS Data Book  Page 1 of 4 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+HF Cohort Surveillance  
+ 
+ 
+_______________________ _____________________________________________________________________________________________________________________________ _____________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 10:41  Heart Fa
+----------------------------------------
+Summary for extracted_forms\ESF\C13HFAA1.pdf:
+JHS Data Book  Page 1 of 58 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+HF Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 10:41  Heart Fa
+----------------------------------------
+Summary for extracted_forms\ESF\C13IFIA1.pdf:
+ARIC Data Book  Page 1 of 15 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+______ _____________________________________________________________________________________________________________________________ ______________________________________________________________  
+ 
+Job 02_c13ifia1 by kjr on 19SEP16 11:24  In
+----------------------------------------
+Summary for extracted_forms\ESF\C13JSTA1.pdf:
+ARIC Data Book  Page 1 of 25 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 09:28  JHS Cohort St
+----------------------------------------
+Summary for extracted_forms\ESF\C13OCC1.pdf:
+ARIC Data Book  Page 1 of 5 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:08  Cohort 
+----------------------------------------
+Summary for extracted_forms\ESF\C13PHQA1.pdf:
+ARIC Data Book  Page 1 of 8 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Cohort Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 11:08  Physici
+----------------------------------------
+Summary for extracted_forms\ESF\C13SDXA1.pdf:
+ARIC Data Book  Page 1 of 3 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Surveillance  
+ 
+ 
+____________ _____________________________________________________________________________________________________________________________ ________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 09:28  Stroke Final 
+----------------------------------------
+Summary for extracted_forms\ESF\C13STRC1.pdf:
+ARIC Data Book  Page 1 of 51 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+CHD Surveillance  
+ 
+ 
+_____________________________________________________________________________________________________________________________ ____________________________________________________________________  
+ 
+Job UC713102 by kjr on 19SEP16 09:28  Cohort Stroke
+----------------------------------------
+Summary for extracted_forms\ESF\CELF.pdf:
+CEL Vers. F, 05/05/2014   Page 1 of 8  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+A.  IDENTIFYING INFORMATION  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+           Question 1c.  deleted     
+ 
+ 
+ 
+          
+            Question 3 deleted                                                                                                                                   
+ 
+ 
+ 
+                                                                            
+          
+   
+  
+   
+        5.  Source to identify event ?    
+        
+----------------------------------------
+Summary for extracted_forms\ESF\CHD%20Events.pdf:
+ 
+JHS-ARIC  
+Cohort Surveillance CHD Events Data Dictionary  
+ 
+An event consists of a single eligible occurrence or group of eligible occurrences that are 
+linked based on the 28 day criteria and belonging to  the same individual.  All Occurrence(s) 
+that makes an  event will have the same EVENT_ID.  
+Table of Contents  
+ 
+1. 1. Classification Variables  .......................................................................................................... 2 
+1.1. CALDX2  ...................
+----------------------------------------
+Summary for extracted_forms\ESF\CHD%20Occurrences.pdf:
+ 
+JHS-ARIC  
+Cohort Surveillance CHD Occur rences Data Dictionary  
+ 
+Occurrence: An occurrence refers to a single hospitalization, fatal or non -fatal, or an 
+out-of-hospital death with a unique ID.  
+ 
+Occurrence  Forms  
+(not all may be in the database)  Comment  
+Non-fatal 
+Hospitalization  HRA, SXI, ECG forms and  
+CEL (if surveillance eligible cohort)  A unique ID will be assigned to all related forms  
+Fatal 
+Hospitalization  HRA, SXI, ECG forms, DTH, and CEL (if 
+surveillance eligible co
+----------------------------------------
+Summary for extracted_forms\ESF\CHIB.pdf:
+              
+    1 of 7  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    
+ 
+ 
+ 
+  0.a. Hospital code number:                                       
+                                              
+      
+ 
+  0.b. Medical Record Number:  
+ 
+    
+     
+ 
+   
+ 
+   0.c.  Date of discharge (for nonfatal case) or death:  
+                  
+                  
+                Month         Day                Year  
+        
+          
+    
+                                        
+ 
+ 
+ 
+ 
+ 
+ 
+
+----------------------------------------
+Summary for extracted_forms\ESF\CHIB_QxQ.pdf:
+  
+ 
+CHI_QxQ                                                                                                                                                                                        Page 1 of 9          
+                                                              INSTRUCTIONS FOR ABSTRACTING  
+JHS COMMON HOSPITAL INFORMATION FORM  
+CHI, VERSION B , 05/27/2014 
+QxQ 05/27/2014 
+General Instructions  
+ 
+The Common Hospital Information Form is completed for any eligible hospital reco
+----------------------------------------
+Summary for extracted_forms\ESF\CORC.pdf:
+COR Form   Page 1 of 8                                    
+        
+ 
+ 
+                                                                                                                                                                                                                                                                                                              
+ 
+EVENT ID:                                                                                                
+ 
+               
+----------------------------------------
+Summary for extracted_forms\ESF\CORC_QxQ.pdf:
+COR QXQ   Page 1 of 4 Instructions for the Cor oner/Medical Examiner Form  
+COR Version C:  05/05/2014 
+ 
+General Instructions  
+ 
+This form is completed for each eligible, out -of-hospital cohort or surveillance event which was a medical 
+examiner’s (coroner’s) case. The medical examin er’s (coroner’s) report may consist of an investigation, 
+an autopsy, or both.  The abstractor should be familiar with ARIC Instructions for completion of Paper Forms and the instructions for the Hospital Record 
+----------------------------------------
+Summary for extracted_forms\ESF\DTHF_QXQ.pdf:
+                                                        
+ 
+DTH_QxQ   Page 1 of 12  
+  
+DEATH CERTIFICATE FORM INSTRUCTIONS  
+DTH Version F: 05/19/2014  
+QxQ prepared 5/19/2014 
+ 
+I.  GENERAL INSTRUCTIONS  
+ 
+The Death Certificate Form is com pleted for eac h eligible surveillance death  (see manual 3, sections 2.3.1 and 
+table 2.3 ) and for all cohort deaths.  The abstractor must be certified and should be familiar with the document 
+titled "General Instructions For Completing Paper Forms" prior
+----------------------------------------
+Summary for extracted_forms\ESF\DTHG.pdf:
+Updated  DTH Form  Version G 
+ 
+This table summarizes  changes  to the DTH  Form  as of 03/07/20 17 
+ 
+ 
+ 
+Items  in DTH  Form  Descri ption of Changes in DTH  Form  
+Form instructions  Updated  
+Item s 0, 18a, 18b, 3g, 3h, 3i, 3j and 3j1  Removed  
+Note: The orde r of the form questio ns have been changed with the 
+remova l of the deat h eligibility check question s.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+INSTRUCT IONS FOR THE DTH FOR M: The Death Certificate Form is completed for all coh
+----------------------------------------
+Summary for extracted_forms\ESF\HF%20Occurrences.pdf:
+ 
+ 
+JHS-ARIC  
+Cohort Surveillance Heart Failure Occurrences  Data Dictionary  
+ 
+Occurrence: An occurrence refers to a single hospitalization, fatal or non -fatal, with a 
+unique ID.  
+Table of Contents  
+ 
+1. Classification Variables  .......................................................................................................................... 3 
+1.1. ADHFTYPE_EVER  ............................................................................................................... 3 
+1.
+----------------------------------------
+Summary for extracted_forms\ESF\HFA_QxQ.pdf:
+                                                                        Updated HF Instructions (QxQs)  
+ 
+This table summarizes changes to the HF QxQ as of 10/21/2015  
+ 
+Changes in the H F QxQ text are highlighted in yellow  
+Section in HF QxQ  Description of  Changes in HF QXQ  
+Item 1.b.  Pg 6 -7  Clarification made on how to record i ncreasing or new onset edema  
+Item 5.  Pg 9   Clarification made on how to record date of new onset or 
+progression of symptoms/signs  
+Item  6.a.  Pg 10  
+----------------------------------------
+Summary for extracted_forms\ESF\HRAH.pdf:
+Updated  HRA Form Vers ion H 
+ 
+This table summarizes  changes  to the HRA  Form  as of 03/07/20 17 
+ 
+Items  in HRA  Form  Descri ption of Changes in HRA  Form  
+Item 18  Removed  
+Item 20e1   Auto  fill in as “Yes”  – make field  
+display  only  
+Instructions below item 20e4 that says “If all items 20e1‐20e4=N go to 
+item 97”  Removed  
+Item s 21a‐2 1d, 22  Removed  
+Items  26b, 27  Removed  
+Items  28c‐28e1, 28f‐28h,  29a,  29b,  29c1   Removed  
+Items  29c3, 29d, 29e,  29f1,  29h1   Removed 
+----------------------------------------
+Summary for extracted_forms\ESF\IFIC.pdf:
+ 
+           
+ 
+                                                                                                                                                                                                                                                                                                      
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EVENT ID:                                                                         
+ 
+                                                                             
+----------------------------------------
+Summary for extracted_forms\ESF\IFIC_QXQ.pdf:
+IFI QxQ   Page 1 of 7 Informant Interview Form Instructions (IFI)  
+IFI Version C : 05/05 /2014  
+QxQ prepared: 05/05/2014 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The purpose of the informant interview is to obtain information about possible CHD events in 
+order to classify cause of death.  The interv iew with next -of-kin is potentially difficult because of 
+the sensitive nature of a relative’s death.  Even if the informant initially claims no knowledge, 
+begin the form to see if the questions can be an
+----------------------------------------
+Summary for extracted_forms\ESF\PHF.pdf:
+PHF  1 of 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADMINISTRATIVE INFORMATION  
+ 
+0a. Completion Date :  / /  0b. Staff ID:        
+   Month  Day Year  
+0c. Consent Form Status:  
+ Consent form mailed to participant…………..  
+ Consent form received from participant……..  
+ 
+ 
+Section I: Instructions to Physicians:  
+Dear  < Dr                >,  
+ 
+Your patien t, <          Ms/Mr.                              >  who is a long time participant in the JHS Study, has 
+indicated to JHS  stud
+----------------------------------------
+Summary for extracted_forms\ESF\PHFA_QXQ.pdf:
+C:\Users\panugu\Desktop\ Surv\PHFA_QXQ.doc INSTRUCTIONS FOR COMPLETING  
+PHYSICIAN HEART FAILURE  FORM  
+PHF  VERSION A : 06/03/2007 
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Physician Heart Failure ( PHF) Form is completed by the physician when a participant reports that a 
+physician has diagnosed heart failure (HF)  during an outpa tient visit within the last 3 years (from date of 
+AFU interview) .  The interview er initiates the process that enables ARIC to send that physic ian a request to 
+compl
+----------------------------------------
+Summary for extracted_forms\ESF\PHQC.pdf:
+ 
+PHQ Form    Page 1 of 4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+    
+                                                                                                                                 
+ JHS Center use only                        
+ 
+Decedent's Name :  _________________________________ Age: ____  Date of Birth: ___/___/_____   Date of Death:  ___/___/_____     
+          
+EVENT ID:                                                         Sequence Number:                      P
+----------------------------------------
+Summary for extracted_forms\ESF\PTMB.pdf:
+ 
+             
+INSTRUCTIONS: This form should be completed before completing phantom type for  CHD Abstraction, H eart Failure Abstraction,  Data entry,  Test IDs , and 
+Certification.   Phantom Event ID must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeros where necessary to fill all boxes.  For "multiple choice" and "yes/no" type ques tions, answer the letter corresponding to the most 
+app
+----------------------------------------
+Summary for extracted_forms\ESF\PTMB_QXQ.pdf:
+INSTRUCTIONS FOR ARIC PHANTOM FORM  
+PTM , VERSION B:  08/ 27/07             
+QxQ prepared:  08/ 28/07 
+                                                                 
+                  
+I.  GENERAL INSTRUCTIONS  
+   
+The purpose of the form is to provide the CSCC wi th information about QC IDs related to the 
+Hospital Record Abstraction Form (HRA) , and the Heart Failure Hospital Record Abstraction 
+Form (HFA ), by indicating the type of QC ID  (Phantom ID), and pairing it with the Original I
+----------------------------------------
+Summary for extracted_forms\ESF\Sample%20Hospital%20Letterfor_discharge%20list.pdf:
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date 
+ 
+ 
+Hospital  Name  
+Hospital  Address  
+ 
+ 
+MR Director,  
+ 
+We are requesting  the discharge  list for 2015  Hospital  Discharges.   We will need a list with 
+the following  criteria:  
+ 
+Period  - 01/01/15  – 12/31/15  
+Blacks  only 
+Ages  21 and over 
+Gender  
+Inpatien t and outpatient  hospitalizations  
+With  one or more  of the ICD-9-CM or ICD-10-CM codes  listed in the tables  
+ 
+Please  prepare  an MS Excel file including  headings  for MR#, Pt. Name,  Stay 
+----------------------------------------
+Summary for extracted_forms\ESF\STRD_QXQ.pdf:
+ 
+ 
+  
+ 
+  
+                                         
+ARIC Cohort Stroke Form Instructions 
+STR VERSION D:  07/20/05 
+QxQ prepared: 06/24/08 
+ 
+ 
+General Instructions for Field Center Abstractor/Surveillance Director : 
+ 
+ 1. Before going to the hospital to photocopy the medical record for this admission, record on the STR the Event ID number from the Cohort Eligibility Form, and complete Items 1a (hospital number) and 3 (name or Soundex). 
+  2. Photocopy complete hospital record for the appropr
+----------------------------------------
+Summary for extracted_forms\ESF\STRF_QxQ.pdf:
+ 
+ Dead 
+ 
+ Alive 
+ 15. Discharged ....... 
+ 
+m m d d y y y y 
+ 
+14. Date of discharge or death: 
+**Question 3- 13 deleted.For ICD codes, demographics, 
+date and time of arrival at this hospital, transfer 
+information see the CHI form.** 
+ 
+ No 
+ 
+2. Has the hospital chart 
+for this event been 
+located?..................Yes 
+1.b. Medical record number: 
+A. HOSPITAL INFORMATION 
+ 
+1.a. Hospital number: 
+Go to Item 56 
+Go to Item 17  
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cohort Stroke Abstraction Form  
+
+----------------------------------------
+Summary for extracted_forms\ESF\Stroke%20Derived%20Variables.pdf:
+ 
+ 
+JHS-ARIC 
+Cohort Surveillance Stroke Derived Variable Dictionary  
+Table of Contents  
+ 
+1. COMPDIAG  ........................................................................................................................... 1 
+2. COMP_DX  ............................................................................................................................. 3 
+3. FINALDX  ..................................................................................................................
+----------------------------------------
+Summary for extracted_forms\form1\ABBA-F.pdf:
+ 
+ABB/Version A  08/07/200 0                      1 of 6
+      
+ 
+ 
+               
+          
+ 
+Ankle-Brachial Blood Pressure 
+ID NUMB ER:             CONTA CT YEAR:  
+ 
+ 
+    LAST NA ME:                   INITIALS:  FORM CODE :  ABB 
+VERSI ON A  08/07/200 0 
+ 
+ 
+INSTRUCTIONS :   This for m should be completed during the pa rticipant’s clinic visit.  ID Number,  Contact Year, and Name 
+must be enter ed above.  Whenever numeri cal responses are required, e nter the nu mber so that the l ast digi
+----------------------------------------
+Summary for extracted_forms\form1\ABBA-Q.pdf:
+Ankle-Brachial Blood Pressur e Instructions 
+ABB Ver sion-A:  08/07/2000 
+QxQ Date:  02-22-2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Ankle- Brachia l Blood Pressu re (ABB) fo rm is compl eted during  the participant’s 
+baseline clinic visit in conjunction with either the carotid ultrasound or 
+echocardiogram. The technic ian must be certified with training in the proper 
+operation and application of the blood pressu re apparatus and doppler. The 
+technician should hav e a working knowle dge of Ma
+----------------------------------------
+Summary for extracted_forms\form1\abba.pdf:
+Codebook for abba Dataset
+DATA SET: abba               LABEL:              DATE CREATED: 07OCT15:10:53:49
+Number of Observations: 4756
+Number of Variables: 56
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for abba Dataset
+DATA SET: abba               LABEL:              DATE CREATED: 07OCT15:10:53:49
+Number of Observations: 4756
+Number of Variables: 56
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\ABPA-F.pdf:
+Post ABPM  Form
+ FORM CODE:  ABP  
+ VERSION A  12/07/2000 
+ID NUMBER:       CONTACT YEAR:             
+LAST NAME:  INITIALS :1 0
+1. Date Monitor Remo ved: …/ /
+m   m            d     d            y      y     y     y 
+2. Time Monitoring Ended (Conclusion of Test)
+[24-HOUR CLOCK]: ……………………………………  :
+h     h           m    m 
+3.ABPM ID Number: …………………… - J S
+4.ABP Serial Number: ……… 
+5a. Did you wear the monitor for the entire 24 hour period? ………………… Yes   Y 
+No NGo to Item 
+6
+Was this because : 
+Y
+----------------------------------------
+Summary for extracted_forms\form1\ABPA-Q.pdf:
+Post Ambulator y Blood Press ure Form Instructions 
+ABP Versi on A, 12/07/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Post Ambulatory Bloo d Pressure (ABP) form is completed after the parti cipant’s 
+baseline clinic visit to document the pr ocess of returning the ambulatory blood 
+pressure monitor worn by the participant for the 24 hours following the baseline clinic 
+visit. The JHS Sample Coordinat or most of ten completes the form at the time of 
+pick-up from the participant’
+----------------------------------------
+Summary for extracted_forms\form1\abpa.pdf:
+Codebook for abpa Dataset
+DATA SET: abpa               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 1077
+Number of Variables: 30
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for abpa Dataset
+DATA SET: abpa               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 1077
+Number of Variables: 30
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\ADRA-F.pdf:
+FORM CODE:  ADR  Health Practices:  Alcohol and Drug Use
+VERSION A  08/17/2000 
+ADR/Version A  08/17/2000          1 of 2 ID NUMBER:   CONTACT YEAR: 
+LAST NAME:   INITIALS: 
+INSTRUCTIONS:  This form should  be completed during the participant's clinic  visit.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeroes where necessary to fill a ll boxes.  If a nu
+----------------------------------------
+Summary for extracted_forms\form1\ADRA-Q.pdf:
+Alcohol and Drug Use Form Ins tructions 
+ADR Ver sion A:  08/17/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. General Instructions 
+ 
+The Health Practices: Alc ohol and Drug Use Form (ADR) is completed during the 
+participant' s baseline clinic visit.  The in terviewer must be certified and should have 
+a working knowledge of the data entry proc edures for electroni c version forms and 
+the document titled "General Instructions  for Completing Paper Forms" prior to 
+completing this form.  ID Number, Contact
+----------------------------------------
+Summary for extracted_forms\form1\adra.pdf:
+Codebook for adra Dataset
+DATA SET: adra               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 5278
+Number of Variables: 14
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for adra Dataset
+DATA SET: adra               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 5278
+Number of Variables: 14
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\ANTA-Q.pdf:
+Anthropometry  Form Instructions 
+ANT, Version A, 09/25/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Anthropometry (A NT) form is completed during the participant' s baseline 
+clinic visit to record the results of measuring height, weight, and waist and neck 
+circumference.  The technic ian must  be certified and should hav e a working 
+knowledge of the data entry  procedures for el ectronic version forms and the 
+document titled "General Instructi ons for Completing Paper Forms
+----------------------------------------
+Summary for extracted_forms\form1\ANTB-F.pdf:
+ 
+ 
+ FORM CODE:  ANT  Anthropometry Form
+  VERSION B  6-12-2001 
+ID NUMBER: CONTACT YEAR: 
+ 
+ 
+LAST NAME: INITIALS: 1 0
+  
+INSTRUCTIONS:  This form is to  be completed during the participant’s clinic vi sit.  ID Number, Contact Year, and Name must 
+be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeroes where necessary to fill a ll boxes.  If a number is entered incorrectly, mark through the 
+incor
+----------------------------------------
+Summary for extracted_forms\form1\antv.pdf:
+Codebook for antv Dataset
+DATA SET: antv               LABEL:              DATE CREATED: 16SEP14:14:01:56
+Number of Observations: 5298
+Number of Variables: 11
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for antv Dataset
+DATA SET: antv               LABEL:              DATE CREATED: 16SEP14:14:01:56
+Number of Observations: 5298
+Number of Variables: 11
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\BAPA-F.pdf:
+PreABPMForm
+ FORM CODE:  BAP  
+ VERSION A  10/09/2001 
+ID NUMBER: CONTACT YEAR: 
+LAST NAME: INITIALS : 1 0 
+INSTRUCTIONS:  This form should be completed during the participant 's visit.  ID Number, Contac t Year, and Name must be entered  
+above.  Whenever numerical responses are r equired, enter the number so that the last  digit appears in the rightmost box.  Enter  leading 
+zeroes where necessary to fill all boxes.  If a number is entered incorrectly, mark through the incorrect entry with an 
+----------------------------------------
+Summary for extracted_forms\form1\BAPA-Q.pdf:
+Pre Ambulator y Bloo d Pressur e Form Instructions 
+BAP Versi on A, 12/07/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Pre Ambulatory Bloo d Pressure ( BAP) form is completed du ring the 
+participant’s baseline clinic visit to  document the process of applying the 
+ambulatory blood pres sure monitor to be wo rn by the participant for 24 hours 
+following the baseline clinic visit. The techni cian must be certified with training in 
+the proper operation a nd application of the A m
+----------------------------------------
+Summary for extracted_forms\form1\bapa.pdf:
+Codebook for bapa Dataset
+DATA SET: bapa               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 1147
+Number of Variables: 48
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for bapa Dataset
+DATA SET: bapa               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 1147
+Number of Variables: 48
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\BPAA-F.pdf:
+FORM CODE:   BPAPre Physical Activity Monitoring Form        
+  VERSION A  10/09/2000 
+ID NUMBER: CONTACT YEAR:             
+LAST NAME: INITIALS:   10
+1. Date monitor applied: …. / /
+m   m            d     d            y      y     y     y 
+2. Was the activity monitoring instructio n sheet given
+to the participant? ……………………………………………………………….. Yes Y 
+No N
+3. Did the technician explain the activity monito ring
+procedure to the participant? …………………………………………………. Yes Y 
+No N
+4. Did the participant ver
+----------------------------------------
+Summary for extracted_forms\form1\BPAA-Q.pdf:
+Pre Ph ysical Activity  Moni torin g Form Ins tructions 
+BPA Versi on A, 10/09/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Pre Ph ysical Activ ity Monitoring (BPA) form is completed during the participant’s 
+baseline clinic visit to document the pr ocess of applying the 24-hour physical CSA 
+monitor and step counter to be worn in co ncert with the Ambulatory Blood Pressure 
+Monitor (A BPM) by the participant for 24 hour s following the baseline clinic vis it. The 
+technician mu
+----------------------------------------
+Summary for extracted_forms\form1\bpaa.pdf:
+Codebook for bpaa Dataset
+DATA SET: bpaa               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 399
+Number of Variables: 13
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for bpaa Dataset
+DATA SET: bpaa               LABEL:              DATE CREATED: 07OCT15:10:53:54
+Number of Observations: 399
+Number of Variables: 13
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Mean
+----------------------------------------
+Summary for extracted_forms\form1\CESA.pdf:
+Codebook for cesa Dataset
+DATA SET: cesa               LABEL:              DATE CREATED: 07OCT15:10:53:55
+Number of Observations: 3500
+Number of Variables: 24
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for cesa Dataset
+DATA SET: cesa               LABEL:              DATE CREATED: 07OCT15:10:53:55
+Number of Observations: 3500
+Number of Variables: 24
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\CHOA.pdf:
+Codebook for choa Dataset
+DATA SET: choa               LABEL:              DATE CREATED: 07OCT15:10:53:55
+Number of Observations: 3546
+Number of Variables: 31
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for choa Dataset
+DATA SET: choa               LABEL:              DATE CREATED: 07OCT15:10:53:55
+Number of Observations: 3546
+Number of Variables: 31
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+LengthMea
+----------------------------------------
+Summary for extracted_forms\form1\CHOST-Q.pdf:
+CHOVersionAQxQ.001_991206   Page 1 of 1 CHOST FORM INSTRUCTIONS, CHO, VERSION A, 12/06/1999  
+PREPARED 12/06/1999  
+ 
+I. General Instructions  
+ 
+The CHO Form is completed during the participant's clinic visit. The technician must be 
+certified and should have a working knowledge of the JHS Blood Pressur e Manual of 
+Procedures .  He/she should also be familiar with and understand the document titled 
+"General Instructions for Completing Paper Forms" prior to completing this form.  ID 
+Number, C
+----------------------------------------
+Summary for extracted_forms\form1\CSIA-F.pdf:
+FORM CODE:  CSI Approac h to Life B     
+ VERSION A  08/08/2000 
+ID NUMBER: CONTACT YEAR: 
+LAST NAME:         INITIALS:
+INSTRUCTIONS:  People often experience events that are unpleasant or stressful.  We are interested in 
+how you TYPICALLY HANDLE OR COPE with stress.  The items below represent thoughts or behaviors 
+that people use to cope with stress.  Circle a number next to each item to show how often you cope 
+with stress in that way.  If a number is circled incorrectly, mark through it wit
+----------------------------------------
+Summary for extracted_forms\form1\csia.pdf:
+Codebook for csia Dataset
+DATA SET: csia               LABEL:              DATE CREATED: 07OCT15:10:53:55
+Number of Observations: 4367
+Number of Variables: 20
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for csia Dataset
+DATA SET: csia               LABEL:              DATE CREATED: 07OCT15:10:53:55
+Number of Observations: 4367
+Number of Variables: 20
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\CSIAQxQ.pdf:
+APPROACH TO LIFE INVENTO RY B: COPING STRATEGIES INVENTORY (CSI) 
+FORM QU ESTION BY QUESTION INSTRUCTIONS  
+VERSION A 8/08/2000 
+PREPARED 02/21/01 
+ 
+ 
+The statement below s hould be read to all participants before providing them with the 
+Approach to Life “Bring to Clinic” questionn aires. 
+ 
+General St atement to  Participants 
+ 
+“We are asking that you complete this packet of questionnaires at home. You should 
+bring these  forms with you to your Clin ic Exa m visit. In this packet, there are
+----------------------------------------
+Summary for extracted_forms\form1\DISA-Q.pdf:
+Appendix 4.13.3 Discrimination Form (DIS):  Question by Question Instructions 
+ 
+ 
+Discrimination Form (DIS) Instructions 
+Version A:  07/06/2000 
+Prepared:  07/06/2000 
+Revised:  07/20/2000 
+ 
+ 
+I. General Instructions 
+ 
+The Discrimination Form (DIS) is completed during t he participant's clinic visit.  The interviewer must 
+be certified and should have a working knowledge of  the document titled "General Instructions for 
+Completing Paper Forms" prior to completing this form.  ID Number, Cont
+----------------------------------------
+Summary for extracted_forms\form1\DISA.pdf:
+Codebook for disa Dataset
+DATA SET: disa               LABEL:              DATE CREATED: 07OCT15:10:53:57
+Number of Observations: 5220
+Number of Variables: 88
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for disa Dataset
+DATA SET: disa               LABEL:              DATE CREATED: 07OCT15:10:53:57
+Number of Observations: 5220
+Number of Variables: 88
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\FFQ.pdf:
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+Summary for extracted_forms\form1\FFQA-Q.pdf:
+Diet and Ph ysical Activity  Sub- stud y  
+Long Version Delta NIRI Food Frequenc y Questionnaire Instructions 
+FFQ Version A 02/19/2001 
+QxQ Date 02/19/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Delta NIRI Food Frequency Questionnaire (long version) is administered as part 
+of the diet and physic al activity sub-study  visits. The interviewer is certified and 
+familiar with the DPA SS proced ures. S/he is also familiar with the DPA SS ele ctronic 
+data entry procedures  for and understand the docu
+----------------------------------------
+Summary for extracted_forms\form1\FTRA-F.pdf:
+FORM CODE:  FTRFasting Form
+VERSION A  09/22/2000 
+ID NUMBER:      CONTACT YEAR:              
+LAST NAME: INITIALS:   1 0
+INSTRUCTIONS:   This form is to  be completed during the participant’s clinic visit.  ID Number, Contact Year, and Name must 
+be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeroes where necessary to fill a ll boxes.  If a number is entered incorrectly, mark through the 
+incorr
+----------------------------------------
+Summary for extracted_forms\form1\FTRA-Q.pdf:
+Appe ndix 4.4.3 Fasting/Tr acking Form (F TR):  Ques tion b y Questi on Instruc tions 
+ 
+ 
+FASTIN G/TR ACKING FORM INST RUCTIO NS (FT R) 
+VERSION C, 09/10/19 92 
+PREPARED 06/19/2000 
+Revised 07/1 9/2000 
+ 
+ 
+The Fa sting/ Tracking Fo rm is com pletely filled out at  the beginnin g of the participant's visit.  Portion s 
+of this form m ay be update d (in the CHA NGE mod e of the data entry system) if  the parti cipant arrived 
+at the Exam Cente r havin g con sumed anything othe r than wate r or b
+----------------------------------------
+Summary for extracted_forms\form1\ftra.pdf:
+Codebook for ftra Dataset
+DATA SET: ftra               LABEL:              DATE CREATED: 07OCT15:10:54:04
+Number of Observations: 5306
+Number of Variables: 7
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for ftra Dataset
+DATA SET: ftra               LABEL:              DATE CREATED: 07OCT15:10:54:04
+Number of Observations: 5306
+Number of Variables: 7
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Mean
+----------------------------------------
+Summary for extracted_forms\form1\HCAA-F.pdf:
+ FORM CODE:  HCA  
+   VERSION A  09/20/2000 
+ID NUMB ER:                                                              CONTACT Y EAR:                               Health Care Access and Utilization 
+  
+ 
+LAST NAME:                                                                                          INITIALS :   10
+  
+ 
+ 
+“The next set of questions are about your health care.”  
+ 
+1. Is there a particular place that you usually  go to whe n 
+ you are sick or need advice about your health? …….
+----------------------------------------
+Summary for extracted_forms\form1\HCAA-Q.pdf:
+Health Care Access and Utiliza tion Instructions 
+HCA Ver sion A, 06/30/2000 
+QxQ Date 02/22/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Health Care Access and Utilization (HCA) Form is completed during the 
+Home Induction Interview and collects data on health care utilizatio n, access and 
+satisfaction. The interviewer must be ce rtified and s/he should a lso be familiar 
+with and understand the documen t titled "General Instru ctions for C ompleting 
+Paper Forms" prior to completing this form.  I
+----------------------------------------
+Summary for extracted_forms\form1\hcaa.pdf:
+Codebook for hcaa Dataset
+DATA SET: hcaa               LABEL:              DATE CREATED: 07OCT15:10:54:05
+Number of Observations: 5293
+Number of Variables: 16
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for hcaa Dataset
+DATA SET: hcaa               LABEL:              DATE CREATED: 07OCT15:10:54:05
+Number of Observations: 5293
+Number of Variables: 16
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+LengthMea
+----------------------------------------
+Summary for extracted_forms\form1\ISLA-F.pdf:
+FORM CODE:  ISL Approac h to Life A
+     VERSION A  08/08/2000 
+ID NUMBER: CONTACT YEAR: 
+LAST NAME:          INITIALS: 10
+ 
+   
+ 
+ INSTRUCTIONS:  This scale is made up of a list of statements, each of which may or may not be true 
+about you.  For each statement, circle 1 for “Definitely True” if you are sure it is true about you, and 2 
+for “Probably True” if you think it is true but are not absolutely certain.  Similarly, you should circle 4 
+for “Definitely False” if you are sure the statemen
+----------------------------------------
+Summary for extracted_forms\form1\ISLA-Q.pdf:
+Approach to Life  Inventory A: Interp ersonal Social Support Form Instructions 
+ISL, Version A 8/08/2000 
+Prepared 02/21/01 
+ 
+ 
+I. GENERAL STATEMENT TO PARTICIPANTS 
+ 
+The statement below s hould be read to a ll participants before providing them with 
+the Approach to Life “Bring to Clinic” questionnaires. 
+ 
+ “We are asking that you complete this packet of questi onnaires at  home. You 
+should brin g these forms with you to your Clin ic Exam visit. In this packet, there are 
+questions c overin
+----------------------------------------
+Summary for extracted_forms\form1\isla.pdf:
+Codebook for isla Dataset
+DATA SET: isla               LABEL:              DATE CREATED: 07OCT15:10:54:05
+Number of Observations: 4393
+Number of Variables: 20
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for isla Dataset
+DATA SET: isla               LABEL:              DATE CREATED: 07OCT15:10:54:05
+Number of Observations: 4393
+Number of Variables: 20
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\MHXA-F.pdf:
+. 
+ FORM  COD E:  MHX Medical History Form  
+ VERSI ON A  07/27/200 0 
+ID NU MBER:  CONTACT YEAR:      CONTACT: 
+ 
+LAST NA ME:                INITIALS: 10
+ 
+ 
+INSTRUCTIONS :  This for m should be comp leted during th e participant's visit.  ID Nu mber, Contact Ye ar, and Name must be 
+entered above.  Whenever nu merical respon ses are required, enter the nu mber so that t he last digit a ppears in the right most 
+box.  Enter lea ding zeroes w here necessary to fill all boxe s.  If a number  is e
+----------------------------------------
+Summary for extracted_forms\form1\MHXA-Q.pdf:
+Medical Histor y Form Instructions 
+MHX Version A, 07/27/2000 
+QxQ Date 02/22/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Medical History (MHX) form is comple ted during the interview portion of the 
+participant' s baseline clinic visit. The inte rviewer must be certified and should have a 
+working knowledge of data ent ry procedures  for electronic version forms and the 
+document titled "General Instructi ons for Completing Paper Forms" prior to 
+completing this form.  ID Number, Contact Year, and
+----------------------------------------
+Summary for extracted_forms\form1\mhxa.pdf:
+Codebook for mhxa Dataset
+DATA SET: mhxa               LABEL:              DATE CREATED: 07OCT15:10:54:08
+Number of Observations: 5257
+Number of Variables: 84
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for mhxa Dataset
+DATA SET: mhxa               LABEL:              DATE CREATED: 07OCT15:10:54:08
+Number of Observations: 5257
+Number of Variables: 84
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\MSRA-F.pdf:
+  FORM CODE :  MSR   
+                                                                                        VERS ION A  09/25/2 000 
+ID NUMB ER:                                                             CON TACT YEAR: 
+  
+LAST NA ME:                                                             INITIAL S: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.  RECEP TION 
+ 
+1. Did you bring all the medica tions  you used in  the past  
+ two weeks, or their containers?   T his includes al l  
+prescript ion medicat ions, 
+----------------------------------------
+Summary for extracted_forms\form1\MSRA-Q.pdf:
+Medicatio n Survey  Form Instru ctions 
+MSR, Version A, 09/28/2000 
+QxQ Date 02/22/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Medic ation Survey (MSR) form is completed during the participant baseline 
+clinic exam visit.  The purpose of the MS R is to assess medication usage in the two 
+weeks preceding the examinat ion date.  Information on both prescription and non-
+prescription drugs and herbals is  ascertained.  To obtain this information, the 
+participant is asked prior to the clinic visit to 
+----------------------------------------
+Summary for extracted_forms\form1\msra.pdf:
+Codebook for msra Dataset
+DATA SET: msra               LABEL:              DATE CREATED: 07OCT15:10:54:16
+Number of Observations: 5284
+Number of Variables: 238
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Mean Range of Values Frequency Category Frequency Percent
+SUBJID PARTICIPANT ID Char$ 7 -
+VISIT CONTACT OCCASION Num 8 1 1.00-1.00 5284100.00
+5284 100.00
+MSRA1 1: Bring in all medications used? Char$MSRA1V 1 - 621.17
+N
+----------------------------------------
+Summary for extracted_forms\form1\PACA-F.pdf:
+ 
+Physical Activity Form
+  FORM CODE:  PAC  
+   VERSION A  08/24/2000 
+ID NUMBER:                                                                    CONTACT YEAR:                                
+  
+ 
+LAST NAME:                                                                                             INITIALS:   1 0
+  
+ 
+“Now I’m go ing to  ask you some questio ns abo ut your physic al activity during the past year.  F irst, we wo uld 
+like to know about the general level of physical  activity 
+----------------------------------------
+Summary for extracted_forms\form1\PACA-Q.pdf:
+PHYSICIAL ACTIVITY FORM INSTRUCTIONS (PAC) 
+VERSION A, 02/22/2001 
+ 
+ 
+I. SPECIFIC INSTRUCTIONS  
+ 
+The Physical Activity Form (PAC) is in cluded in the Home Induction Interview 
+and collects data regarding activities of active living, occupational, home and 
+sports/exercise over the past 12 months .  Interviewers mu st be certified and 
+familiar with and understand the “General Instructions for Completing Paper 
+Forms," prior to completing this fo rm.  ID, Contact, Year and Name are 
+completed 
+----------------------------------------
+Summary for extracted_forms\form1\paca.pdf:
+Codebook for paca Dataset
+DATA SET: paca               LABEL:              DATE CREATED: 07OCT15:10:54:18
+Number of Observations: 5301
+Number of Variables: 44
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for paca Dataset
+DATA SET: paca               LABEL:              DATE CREATED: 07OCT15:10:54:18
+Number of Observations: 5301
+Number of Variables: 44
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\PDSA-F.pdf:
+ 
+ Personal Data - Socioeconomic Status 
+ 
+ID NUMB ER:                                         CONTA CT YEAR: 
+ 
+  
+LAST NA ME:                 INI TIALS: FORM CODE :  PDS 
+VERSI ON A  09/20/200 0 1 0
+ 
+ 
+“Now I would like t o ask you a few  questions about yourself. In studies  like this we often compar e the ideas of 
+men a nd women,  young and old pers ons, and people of different  economic bac kgrounds. The foll owing 
+questions ar e designed  to assess s ome of y our current and early life 
+----------------------------------------
+Summary for extracted_forms\form1\PDSA-Q.pdf:
+Personal Data And Socioecon omic Status Instructions 
+PDS Versi on A, 11/06/2000 
+QxQ Date 02/22/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Personal Data and Socioec onomic (P DS) form is the final data collection  
+component  of the Home Induction Intervie w and is perhaps the most sensitive 
+component  of this interview. The PDS co llects informati on on participant and formal 
+occupation,  education, income and wealth as  well as perceived status.  The 
+placement of these items at  the end of t
+----------------------------------------
+Summary for extracted_forms\form1\pdsa.pdf:
+Codebook for pdsa Dataset
+DATA SET: pdsa               LABEL:              DATE CREATED: 07OCT15:10:54:20
+Number of Observations: 5300
+Number of Variables: 60
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for pdsa Dataset
+DATA SET: pdsa               LABEL:              DATE CREATED: 07OCT15:10:54:20
+Number of Observations: 5300
+Number of Variables: 60
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\PFHA-F.pdf:
+ 
+  
+ FORM CODE:  PFH Personal and Family Health History Form
+      VERSION A  10/06/2000 
+ID NUMB ER:      CONTACT Y EAR: 
+  
+ 
+LAST NAME:     INITIALS : 1 0
+ 
+ 
+“I would like to ask you a few questions about your health and that of your parents.” 
+ 
+1. Compared to other people your ag e, would you s ay  
+that your health is excellent , good , fair, or poor? …………….. Excellent E 
+   
+  Good G 
+   
+  Fair F 
+ 
+  Poor P 
+ 
+ 
+ 
+Personal Health Problems :  “Now I’m going to read a list of some healt
+----------------------------------------
+Summary for extracted_forms\form1\PFHA-Q.pdf:
+Personal And Family  Health Histor y Form Instructions 
+PFH Versi on A, 10/06/2000 
+QxQ Date 02/21/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Personal and Family Health History (P FH) is the fi rst section of the Home 
+Induction Interview and collects informati on on the participant’s health status, 
+personal health history and family health hi story. The exact wording and order of the 
+questions s hould be followed to ensure st andardization. Questions should not be 
+skipped unless indicat ed by 
+----------------------------------------
+Summary for extracted_forms\form1\pfha.pdf:
+Codebook for pfha Dataset
+DATA SET: pfha               LABEL:              DATE CREATED: 07OCT15:10:54:21
+Number of Observations: 5300
+Number of Variables: 89
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for pfha Dataset
+DATA SET: pfha               LABEL:              DATE CREATED: 07OCT15:10:54:21
+Number of Observations: 5300
+Number of Variables: 89
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\PPAA-F.pdf:
+Post-24-Hour Ph ysical Activi ty Monitoring Instructions 
+PPA Versi on A, 11/03/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Post Physical Activity Monitoring Form ( PPA) is co mpleted after the parti cipant’s 
+baseline clinic visit to document the proce ss of returning the physical activity CSA 
+monitor and step counter worn by the participant for the 24 hours following the 
+baseline clinic visit. The PPA also  document s the downloadin g of data from the CSA 
+monitor after it 
+----------------------------------------
+Summary for extracted_forms\form1\PPAA-Q.pdf:
+Post-24-Hour Ph ysical Activi ty Monitoring Instructions 
+PPA Versi on A, 11/03/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Post Physical Activity Monitoring Form ( PPA) is co mpleted after the parti cipant’s 
+baseline clinic visit to document the proce ss of returning the physical activity CSA 
+monitor and step counter worn by the participant for the 24 hours following the 
+baseline clinic visit. The PPA also  document s the downloadin g of data from the CSA 
+monitor after it 
+----------------------------------------
+Summary for extracted_forms\form1\RCPA-F.pdf:
+                                                                                       FORM CODE:  RCP Approach to Life C        
+      VERSION A  08/08/2000 
+ID NUMBER:                                 CONTACT YEAR: 
+  
+LAST NAME:            INITIALS: 10
+ 
+ 
+ 
+ 
+1. In general, how often do you attend the main worship service  
+ of your church or otherwise participate in organizational religion  
+ (such as watching services on TV, listening to services on the  
+ radio, participating in Bible stud
+----------------------------------------
+Summary for extracted_forms\form1\RCPA-Q.pdf:
+Approach To Life C: Religion/ Religious Coping/Helplessness Form 
+Instructio ns  
+RCP, Versi on A 8/08/2000 
+QxQ Date 02-21-2001 
+ 
+ 
+I. General St atement to  Participants 
+ 
+The statement below s hould be read to a ll participants before providing them with 
+the Approach to Life “Bring to Clinic” questionnaires. 
+ 
+“We are asking that you complete this packet of questionnaires at home. You should 
+bring these  forms with you to your Clin ic Exam visit. In this packet, there are 
+questions c ov
+----------------------------------------
+Summary for extracted_forms\form1\rcpa.pdf:
+Codebook for rcpa Dataset
+DATA SET: rcpa               LABEL:              DATE CREATED: 07OCT15:10:54:24
+Number of Observations: 4362
+Number of Variables: 15
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for rcpa Dataset
+DATA SET: rcpa               LABEL:              DATE CREATED: 07OCT15:10:54:24
+Number of Observations: 4362
+Number of Variables: 15
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+LengthMea
+----------------------------------------
+Summary for extracted_forms\form1\RHXA-F.pdf:
+     
+ 
+ 
+ 
+ 
+                   
+       
+ 
+ID NUMBER:                    CONTACT YEAR:  
+ 
+ 
+     LAST NAME:                           INITIALS:  
+ 
+ 
+INSTRUCTIONS :  This for m should be comp leted for FEMA LE participants  only.  It shoul d be complete d during the i nterview 
+portion of the participant's visit.  ID Nu mber, Contact Year, an d Name must be entered above.  Whenever numeri cal responses 
+are required, e nter the nu mber so that the l ast digit appears in the right most box.  En
+----------------------------------------
+Summary for extracted_forms\form1\RHXA-Q.pdf:
+RHXAQxQ02232001   1 Reproductive History Form Instructions  
+RHX Version C, 12/01/95  
+QxQ Date 02/23/2001  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ The Reproductive History Form (RHX) is completed during the female participant's baseline clinic visit.  The interviewer must be certified and sh ould 
+have a working knowledge of the data entry procedures for the electronic version from and the document titled "General Instructions for Completing Paper Forms" prior to completing this form.  ID Number, Conta
+----------------------------------------
+Summary for extracted_forms\form1\rhxa.pdf:
+Codebook for rhxa Dataset
+DATA SET: rhxa               LABEL:              DATE CREATED: 07OCT15:10:54:25
+Number of Observations: 3335
+Number of Variables: 70
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for rhxa Dataset
+DATA SET: rhxa               LABEL:              DATE CREATED: 07OCT15:10:54:25
+Number of Observations: 3335
+Number of Variables: 70
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\RPAA-F.pdf:
+ 
+                FORM CODE :  RPA Respiratory Symptoms Form    
+  VERSI ON A  09/22/200 0 
+ID NUMB ER:                                           CONTACT YEA R:                             
+   
+LAST NA ME:                                                                                            INITIALS:    1 0
+ 
+INSTRUCT IONS:   This for m is to be co mplet ed during the partic ipant’s cl inic visit.  ID Number, Contact Year, and Name must 
+be entered above.  Whenever numeri cal responses are 
+----------------------------------------
+Summary for extracted_forms\form1\RPAA-Q.pdf:
+RESPIRAT ORY SYMPTOMS FORM INSTRUCTIONS 
+RPA VERSION A, 09/22/2000 
+QxQ Date 02/22/2001 
+ 
+I. GENERAL INSTRUCTIONS 
+The Respiratory Symp toms fo rm is comp leted during the interview portion of the 
+baseline clinic visit.  The intervie wer must  be certified and should  be familiar the data 
+editing procedures for electronic version forms with and understand the document titled 
+“General Instructions for Completing Paper Forms” prior completi ng this form.  ID 
+number, Contact Year and Name are 
+----------------------------------------
+Summary for extracted_forms\form1\rpaa.pdf:
+Codebook for rpaa Dataset
+DATA SET: rpaa               LABEL:              DATE CREATED: 07OCT15:10:54:26
+Number of Observations: 5278
+Number of Variables: 28
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for rpaa Dataset
+DATA SET: rpaa               LABEL:              DATE CREATED: 07OCT15:10:54:26
+Number of Observations: 5278
+Number of Variables: 28
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\SBPA-F.pdf:
+ 
+ 
+               FORM CODE:  SBP  Sitting Blood Pressure Form         
+                VERSION A  04/03/2000 
+ID NUMB ER:                                                                    CONTACT Y EAR:                                
+SBP/Version A  04/03/2000                                                                                                                                                                                                                        1  of 4 
+   
+ 
+LAST N
+----------------------------------------
+Summary for extracted_forms\form1\SBPA-Q.pdf:
+Sitting Blood Pressu re Form Instructions  
+SBP Versi on A, 04/03/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Sitting Bloo d Pressure (SBP) form is completed du ring the participant's 
+baseline clinic visit. The technician mu st be certified and should have a working 
+knowledge of Manual 4: Blood Pressure.  S/he should also be familiar with the data 
+entry procedures for the electronic  version forms and understand the document 
+titled "General Instructions for Completi ng Pape
+----------------------------------------
+Summary for extracted_forms\form1\sbpa.pdf:
+Codebook for sbpa Dataset
+DATA SET: sbpa               LABEL:              DATE CREATED: 07OCT15:10:54:26
+Number of Observations: 5289
+Number of Variables: 27
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for sbpa Dataset
+DATA SET: sbpa               LABEL:              DATE CREATED: 07OCT15:10:54:26
+Number of Observations: 5289
+Number of Variables: 27
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\SOCA-F.pdf:
+ 
+ Social Support Form 
+ FORM CODE:  SOC  
+                 VERSION A  09/20/2000 
+ID NUMBER:   CONTACT YEAR: 
+  
+ 
+LAST NAME:   INITIALS: 10
+ 
+ 
+ 
+ 
+“Now I hav e some quest ions about  your rela tionships with your family and others.”  
+ 
+ 
+1a. First, are you married, separated, divorced, widowed  
+or have you never been married? ………………………… Married M 
+ 
+  Separated   S 
+  
+  Divorced   D  
+ 
+  Widowed   W 
+ 
+  Never been married  N 
+ 
+ 
+ 
+ 
+  1b.   How long have you been (married, separated,  
+
+----------------------------------------
+Summary for extracted_forms\form1\SOCA-Q.pdf:
+Social Support Form Instructions 
+SOC Version A, 09/20/2000 
+QxQ Date 02/22/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Social Support (SOC) form is included as part of the Home Induction Interview 
+to collect data about the extent of support fr om close personal relationships.  Marital 
+status is also ascertained in this form.  The interviewer must be certified and should 
+have a working knowledge of the document  titled “General Instructions for 
+Completing Paper Forms” prior to completing  this 
+----------------------------------------
+Summary for extracted_forms\form1\soca.pdf:
+Codebook for soca Dataset
+DATA SET: soca               LABEL:              DATE CREATED: 07OCT15:10:54:27
+Number of Observations: 5296
+Number of Variables: 14
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for soca Dataset
+DATA SET: soca               LABEL:              DATE CREATED: 07OCT15:10:54:27
+Number of Observations: 5296
+Number of Variables: 14
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\SSFA-F.pdf:
+SSF/Version A  12/07/2000     1 of 18 
+Stroke Symptoms Form
+ID NUMBER:      CONTACT YEAR:  
+LAST NAME:      INITIALS: FORM CODE:  S SF 
+VERSION A  08/09/200 0FORM CODE:  SSF 
+VERSION A  12/07/2000  
+10
+INSTRUCTIONS:   This form should be comp leted during the participant’s visit.  ID Number, Contact Year, and Name must be 
+entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the rightmost 
+box.  Enter leading zeroes where necessary to fill
+----------------------------------------
+Summary for extracted_forms\form1\SSFA-Q.pdf:
+Stroke Symptoms Form Instru ctions 
+SSF Versi on A, 12/07/00 
+QxQ Date 02/23/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Stroke Symptoms (SSF) form is co mpleted during the participant's baseline 
+clinic visit.  The interviewer must be ce rtified and should have a working knowledge 
+of the data entry procedures for el ectronic version forms and the document titled 
+"General Instructions for Completing Paper Fo rms" prior to completing this form.  ID 
+Number, Contact Year, and Name should be complet
+----------------------------------------
+Summary for extracted_forms\form1\ssfa.pdf:
+Codebook for ssfa Dataset
+DATA SET: ssfa               LABEL:              DATE CREATED: 07OCT15:10:54:27
+Number of Observations: 5279
+Number of Variables: 104
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for ssfa Dataset
+DATA SET: ssfa               LABEL:              DATE CREATED: 07OCT15:10:54:27
+Number of Observations: 5279
+Number of Variables: 104
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+LengthM
+----------------------------------------
+Summary for extracted_forms\form1\STSA-F.pdf:
+     
+STS/Ve rsion A  05/03/2000                                       1 of 2 
+ FORM CODE:  STS  
+ VERSION A  05/03/2000 Stress
+ 
+ID NUMB ER:                                       CONTACT Y EAR:  
+ 
+ 
+LAST NAME:                                                                                             INITIALS :   10
+ 
+ 
+ 
+“We are interes ted in the amount of s tress that you have experienced over the pas t 12 
+months.  Over the pas t 12 months , how much s tress did you experience…” 
+  
+ [HAND
+----------------------------------------
+Summary for extracted_forms\form1\STSA-Q.pdf:
+Stress Form Instruction 
+STS Versi on A, 05/03/2000 
+QxQ Date 02/22/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Stress Form (STS) is included in the Home Induction Interview and collects data 
+about the degree of stress perceived in several global areas of liv ing over the past 
+12 months.  The exact wording and order of the questions should be followed to 
+insure standardization.  Read the questions clearly using the exact wording on the 
+form.  The i nterviewer must be certif ied and have working
+----------------------------------------
+Summary for extracted_forms\form1\stsa.pdf:
+Codebook for stsa Dataset
+DATA SET: stsa               LABEL:              DATE CREATED: 07OCT15:10:54:27
+Number of Observations: 5284
+Number of Variables: 12
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for stsa Dataset
+DATA SET: stsa               LABEL:              DATE CREATED: 07OCT15:10:54:27
+Number of Observations: 5284
+Number of Variables: 12
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+LengthMea
+----------------------------------------
+Summary for extracted_forms\form1\STXA-F.pdf:
+FORM CODE:  STX Hassles an d Moods D
+     VERSION A  08/08/2000 
+ID NUMBER: CONTACT YEAR: 
+LAST NAME:          INITIALS: 10
+Everyone feels angry or furious from time to time, but people differ in the ways that they react when they 
+are angry.  A number of statements are listed below which people use to describe their reactions when 
+they feel angry or furious.  Read each statement and then circle the number which indicates how often 
+you generally react or behave in the manner described when you
+----------------------------------------
+Summary for extracted_forms\form1\stxa.pdf:
+Codebook for stxa Dataset
+DATA SET: stxa               LABEL:              DATE CREATED: 07OCT15:10:54:28
+Number of Observations: 3529
+Number of Variables: 20
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for stxa Dataset
+DATA SET: stxa               LABEL:              DATE CREATED: 07OCT15:10:54:28
+Number of Observations: 3529
+Number of Variables: 20
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\TOBA-F.pdf:
+ Health  Practices :  Tobacco Use  
+ FORM CODE :  TOB 
+                 VERSI ON A  07/05/2 000 
+ID NUMB ER:    CON TACT YEAR: 
+  
+LAST NA ME:   INITIALS: 1 0
+ 
+ 
+  
+ 
+“Now I have a series of q uestions about your health habits.  These first questio ns will be about  
+tobacco use.” 
+ 
+1. Have you s moked at least 400 cigarettes in your lifetime?  
+[COD E “NO” IF LESS THAN 400 CIGARETTES, THAT IS,   
+ 20 PACK S OR 2 CARTON S IN A LI FETIME]… ……… ………… ……………… ...Yes  Y 
+ 
+  No  N Go to Ite m 14
+  
+
+----------------------------------------
+Summary for extracted_forms\form1\TOBA-Q.pdf:
+Health Practices: Tobacco Use Form Instructions  
+TOB Version A, 07/05/2000 
+QxQ Date 02/22/2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Health Practices: Tobacco Use Fo rm (TOB) is completed during the Home 
+Induction Interview and collects data regardi ng all forms of tobacco use over the 
+participant’s lifetime. The intervie wer mu st be certified and s/he should be fa miliar 
+with and understand the documen t entitled "General Instructions for Completing 
+Paper Forms" prior to completing this fo
+----------------------------------------
+Summary for extracted_forms\form1\toba.pdf:
+Codebook for toba Dataset
+DATA SET: toba               LABEL:              DATE CREATED: 07OCT15:10:54:28
+Number of Observations: 5295
+Number of Variables: 32
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for toba Dataset
+DATA SET: toba               LABEL:              DATE CREATED: 07OCT15:10:54:28
+Number of Observations: 5295
+Number of Variables: 32
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form1\WSIA-F.pdf:
+     FORM  COD E:  WSI Hassles and Moods A      
+ VERSI ON A  08/08/200 0 
+ID NUMBER:                                   CO NTACT YEAR: 
+  
+LAST NAME:              INITIALS: 10
+ 
+ 
+Below are listed a variety of events that may be vi ewed as stressful or unpleasant. Read each item 
+carefully  and decide whether or n ot that event happen ed to you during this past week. If the event did 
+not happen this week, circle the 0 next to th at item. If the event did happen, show the amount of stress 
+that 
+----------------------------------------
+Summary for extracted_forms\form1\WSIA-Q.pdf:
+Hassles and Mood Inventor y Form Instructions 
+WSI, CES, CHO AND STX 
+VERSION A, 08/08/2000 
+QxQ Date 02/23/2001 
+ 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Hassles and Mood Inventory is completed by  the participant in their home after the 
+baseline clinic visit.  If there is time and the participant desires, it can be completed 
+during the baseline clinic visit.  The statem ent below should be read to all participants 
+before providing them with the Hassles and Mood take home ques tionnaires.  
+ 
+Ge
+----------------------------------------
+Summary for extracted_forms\form1\wsia.pdf:
+Codebook for wsia Dataset
+DATA SET: wsia               LABEL:              DATE CREATED: 07OCT15:10:54:29
+Number of Observations: 3606
+Number of Variables: 91
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length MeanRange of
+Values Frequency Category Frequency Percent
+SUBJID PARTICIPANT ANALYSIS ID Char$ 7 -
+VISIT CONTACT OCCASION Num 8 11.00-1.00 3606100.00
+3606 100.00
+WSIA1 1: Had a job assignment overdue NumWSIAR1V 80.962274
+----------------------------------------
+Summary for extracted_forms\form2\BCFA-F.pdf:
+BCF / Versi on A 1 0/17/2005 Page 1 of 5 INSTRU CTIONS:  T his form is to  be completed during the pa rticipa nt’s clin ic visit.  I D Num ber, Contact Ye ar, and Name 
+must be entered above.  Whe never numerical responses are require d, enter the number so that the last digit a ppears in 
+the rightmost bo x.  Ente r leading ze roes where nece ssary to fill all boxes.  If us ing a paper form and a nu mber is entered 
+incor rectly mark through the incorrect entry with a n “X”.  Co de the correct 
+----------------------------------------
+Summary for extracted_forms\form2\BCFA-Q.pdf:
+ 
+ 
+BODY COMPOSITION FORM INSTRUCTI ONS 
+BCF VERSION A: 08/15/2005 
+QxQ Prepared: 08/30/2005 
+ 
+ 
+ 
+I. General Instructions 
+ 
+The Body Composition Form (B DF) form is  completed during the fixed sequence 
+#1 of the participant's Exam 2 visit to record the results of measuring height, 
+weight, waist and neck circumference and body composition (body fat, free fat 
+mass, impedance.  The technician must  be certified and should have a working 
+knowledge of the data entry  procedures for el ectronic
+----------------------------------------
+Summary for extracted_forms\form2\bcfa.pdf:
+Codebook for bcfa Dataset
+DATA SET: bcfa               LABEL:              DATE CREATED: 07OCT15:10:54:36
+Number of Observations: 4197
+Number of Variables: 33
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for bcfa Dataset
+DATA SET: bcfa               LABEL:              DATE CREATED: 07OCT15:10:54:36
+Number of Observations: 4197
+Number of Variables: 33
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form2\FSTA-F.pdf:
+ Finger Stick        
+ 
+          F ORM CODE: FST 
+              VERSI ON A 10/07/200 5 
+ 
+ID NUMBER:       C ONTACT YEAR  
+FST Ve rsion A 10/07/20 05 1 
+6 0
+ 
+LAST NAME:                INITIALS:      
+ 
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTIONS :  This for m should be comp leted during th e participant's visit.  ID Nu mber, Contact Ye ar, and Name must be 
+entered above.  Whenever nu merical respon ses are required, enter the nu mber so that t he last digit a ppears in the right most 
+box.  Enter lea ding zeroes
+----------------------------------------
+Summary for extracted_forms\form2\FSTA-Q.pdf:
+FINGER STICK FORM INSTRUCTIONS 
+FST VERSION A:  08/05/2005 
+QxQ Prepared:  09/09/2005 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Finger Stick Form (FST) is completed duri ng the Exam 2 clinic visit at the time 
+of the digipuncture for glucose and lipid s. The interviewer must be certified and 
+should hav e a working knowledge of general clinic procedures. 
+ 
+S/he should be familia r with the data entry procedures for electronic version forms 
+and unders tand the document entit led "General Instructi on
+----------------------------------------
+Summary for extracted_forms\form2\fsta.pdf:
+Codebook for fsta Dataset
+DATA SET: fsta               LABEL:              DATE CREATED: 07OCT15:10:54:37
+Number of Observations: 1726
+Number of Variables: 15
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for fsta Dataset
+DATA SET: fsta               LABEL:              DATE CREATED: 07OCT15:10:54:37
+Number of Observations: 1726
+Number of Variables: 15
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form2\FTRB-F.pdf:
+         FORM CODE: FTR  Fasting Form
+          VERSION B 10/07/2005 
+ 
+ 
+ID NUMBER:                                  CONTACT YEAR:                                06
+  
+ 
+LAST NAME:       I NITIALS:      
+ 
+ 
+ 
+INSTRUCTIONS:  This form should be co mpleted during the participant's visit.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in 
+the rightmost box.  Enter leading zeroes where necessary
+----------------------------------------
+Summary for extracted_forms\form2\FTRB-Q.pdf:
+FTR B QxQ_8112005 082807   1 FASTING/TRACKING FORM INSTRUCTIONS  
+FTR VERSION B:  07/29/2005  
+QxQ Prepared :  08/11/2005  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Fasting/Tracking Form (FTR) is completely filled out at the beginning of the 
+participant's Exam 2 clinic visit.  Portions of this form ma y be updated (in the 
+CHANGE mode of the data entry system) if the participant arrived at the Exam 
+Center having consumed anything other than water or black, unsweetened coffee or 
+tea in the 10 hours
+----------------------------------------
+Summary for extracted_forms\form2\ftrv.pdf:
+Codebook for ftrv Dataset
+DATA SET: ftrv               LABEL:              DATE CREATED: 07OCT15:10:54:38
+Number of Observations: 4197
+Number of Variables: 3
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for ftrv Dataset
+DATA SET: ftrv               LABEL:              DATE CREATED: 07OCT15:10:54:38
+Number of Observations: 4197
+Number of Variables: 3
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Mean
+----------------------------------------
+Summary for extracted_forms\form2\HHXA-F.pdf:
+ 
+- 
+ 
+ 
+ 
+ 
+  
+ FORM CODE:  HHX 
+Health History Form
+      VERSION A 08/16/2005 
+ID NUMB ER:      CONTACT Y EAR: 
+  
+ 
+LAST NAME:     INITIALS :  6 0 
+  
+ 
+A. PERSONAL HEALTH HIS TORY 
+  
+“I would like to ask you a few questions about your health.” 
+ 
+1. Compared to other people your ag e, would you s ay  
+that your health is excellent , good , fair, or poor? .................. Excellent 1 
+   
+  Good 2 
+   
+  Fair 3 
+ 
+  Poor 4 
+ 
+  Don’t Know 7 
+ 
+  Refused 8 
+ 
+  Missing 9 
+ 
+ 
+2. Since this
+----------------------------------------
+Summary for extracted_forms\form2\HHXA-Q.pdf:
+ 
+ 
+HEALTH HISTORY FORM INSTRUCTIONS  
+HHX VERSION A: 08/16/2005 
+QxQ Prepared : 08/30/2005 
+ 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Health History (HHX) is administered by trained interviewers during the 
+flexible component of the Exam 2 clin ic visit. It collects information on the 
+participant’s health status, personal health  history and family health history and  
+is a follow up of the Personal and Family  Health History (PFH) collected during 
+the Home Induction Interview during Exam 1. The e
+----------------------------------------
+Summary for extracted_forms\form2\hhxa.pdf:
+Codebook for hhxa Dataset
+DATA SET: hhxa               LABEL:              DATE CREATED: 07OCT15:10:54:38
+Number of Observations: 4195
+Number of Variables: 49
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for hhxa Dataset
+DATA SET: hhxa               LABEL:              DATE CREATED: 07OCT15:10:54:38
+Number of Observations: 4195
+Number of Variables: 49
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form2\MHXA-F.pdf:
+. 
+MHX/Version B 08/ 13/2005            1 of 17  
+ 
+  
+ FORM CODE:  MHX  
+ VERSION  B 08/13/200 5 
+ID NUMBER:   CONTACT YEAR:       CONTACT:  
+ 
+LAST NAME:                 INITIALS:  
+ 
+ 
+INSTRUCTIONS:  This form should be completed during the participant's visit.  ID Number, Contact Year, and Name must be 
+entered a bove.  Whenever numerical responses are required, enter the number so that the last digit appears in the rightmost 
+box.  Enter leading zeroes where necessary to fill all boxes.  If
+----------------------------------------
+Summary for extracted_forms\form2\MHXB-Q.pdf:
+MEDICAL HISTORY FORM INSTRUCTIONS 
+MHX VERSION B: 08/09/2005 
+QxQ Prepared : 08/11/2005 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Medical History (MHX) form is comple ted during the interview portion of the 
+participant' s Exam 2 clinic visit. The inte rviewer must be certified and should have a 
+working knowledge of data ent ry procedures  for electronic version forms and the 
+document titled "General Instructi ons for Completing Paper Forms" prior to 
+completing this form.  ID Number, Contact Year, 
+----------------------------------------
+Summary for extracted_forms\form2\mhxb.pdf:
+Codebook for mhxb Dataset
+DATA SET: mhxb               LABEL:              DATE CREATED: 07OCT15:10:54:41
+Number of Observations: 4195
+Number of Variables: 94
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for mhxb Dataset
+DATA SET: mhxb               LABEL:              DATE CREATED: 07OCT15:10:54:41
+Number of Observations: 4195
+Number of Variables: 94
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form2\MSFU-F.pdf:
+MSR/Version A  08/09/2005                                                               1 of 5   
+   FORM CODE:  FUP  
+                                                                                        VERSION A 08/09/2005  
+ID NUMBER:                                                              CONTACT YEAR:  
+  
+LAST NAME:                                                              INITIALS:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.   MEDICATION TRANSCRIPTION  
+ 
+ 
+ 
+ 
+ 
+            
+ 
+ 
+ 
+ 
+  
+----------------------------------------
+Summary for extracted_forms\form2\MSRB-F.pdf:
+- 
+ 
+ 
+ FORM CODE :  MSR 
+Medication Survey Form  
+                                                                                        VERS ION B 1 0 /13/2 005 
+ID NUMB ER:                                                             CON TACT YEAR: 
+  
+LAST NA ME:                                                             INITIAL S: 60
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTIONS :  This for m is completed dur ing the partici pant’s clinic vi sit in several stages by appropriately trained persons a
+----------------------------------------
+Summary for extracted_forms\form2\MSRB-Q.pdf:
+MEDICATI ON SURV EY FORM INSTRUCTI ONS 
+MSR, VERSION B: 08/13/2005 
+QxQ Prepared: 08/13/2005 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Medic ation Survey (MSR) form is co mpleted during the participant’s Exam 2 
+clinic exam visit.  The purpose of the MSR is to assess medication usage in the two 
+weeks  preceding the examinati on date.  Information on both prescription and non-
+prescription drugs and herbals is  ascertained.  To obtain this information, the 
+participant is asked prior to the clinic vis
+----------------------------------------
+Summary for extracted_forms\form2\msrb.pdf:
+Codebook for msrb Dataset
+DATA SET: msrb               LABEL:              DATE CREATED: 07OCT15:10:54:52
+Number of Observations: 4195
+Number of Variables: 284
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Mean Range of Values Frequency Category Frequency Percent
+SUBJID PARTICIPANT ID Char$ 7 -
+VISIT CONTACT OCCASION Num 8 6 6.00-6.00 4195100.00
+4195 100.00
+MSRB1 1. Have you taken any medications in the
+past two weeksNum
+----------------------------------------
+Summary for extracted_forms\form2\MSRFUPqxq.pdf:
+MSRFUP A QxQ_09102005 082807   Page 1 of 12 MEDICATION SURVEY FOLLOW UP FORM INSTRUCTIONS  
+MSR -FUP, VERSION B: 08/13/2005  
+QxQ Prepared: 09/10/2005  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Medication Survey  Follow Up Form  (MSR -FUP) form is completed after the 
+participant ’s Exam 2  clinic exam visi t to obtain med ication information that was not 
+available during the clinic visit.  The purpose of the MSR is to assess medication 
+usage in the two weeks  preceding the examination date.  Infor
+----------------------------------------
+Summary for extracted_forms\form2\RDFA-F.pdf:
+     
+RDF/Version A 08/13/2005  Page 1 of 4  
+ 
+ 
+ 
+                   
+       
+ 
+ID NUMBER:                    CONTACT YEAR:  
+ 
+ 
+                       LAST NAME:                            INITIALS:  
+ 
+ 
+INSTRUCTIONS:  This form should be completed during the interview portion of the participant's vis it.  ID 
+Number, Contact Year, and Name must be entered above.  Whenever numerical responses are required, enter 
+the number so that the last digit appears in the rightmost box.  Enter leading
+----------------------------------------
+Summary for extracted_forms\form2\RDFA-Q.pdf:
+ 
+ 
+RENAL DISEASE FORM INSTRUCTIONS  
+RDF VERSION A: 08/13/2005 
+QxQ Prepared: 09/09/2005 
+ 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Renal Disease Form (RDF) is administe red by trained interviewers during 
+the flexible component of t he Exam 2 clinic visit. It  collects information on the 
+participant’s symptoms and history of potentia l or confirmed renal disease. It is 
+an expansion of the single dialysis time included in the Medical History Form 
+(MHX-A) during Exam 1. The exact word ing and orde
+----------------------------------------
+Summary for extracted_forms\form2\rdfa.pdf:
+Codebook for rdfa Dataset
+DATA SET: rdfa               LABEL:              DATE CREATED: 07OCT15:10:54:53
+Number of Observations: 4196
+Number of Variables: 28
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for rdfa Dataset
+DATA SET: rdfa               LABEL:              DATE CREATED: 07OCT15:10:54:53
+Number of Observations: 4196
+Number of Variables: 28
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form2\SBPB-F.pdf:
+ 
+SBP/Version B 08/13/2005                                                                                                                                                                                                                       1 of 5 
+   
+ 
+ 
+ 
+          FORM CODE; SBP  
+                                      VERSION B 08/ 13/2005  
+ ID NUMBER:        CONTACT YEAR:    
+  
+ 
+LAST NAME:           INITIALS:     
+ 
+A. TEMPERATURE  
+  
+ 1. Room Temperature (degrees centigrade):…………………………
+----------------------------------------
+Summary for extracted_forms\form2\SBPB-Q.pdf:
+SITTING BL OOD P RESSURE FO RM I NSTRUCTIONS (SBP ) 
+VERSION B, 08/15/20 05 
+Prepa red 0 8/27/200 5 
+ 
+ 
+I. General Instructions 
+ 
+The Sitting Blood Pressure (SBP) form is comple ted during the participant's Ex am 2 visit. The 
+techni cian must be certifie d and shoul d have a working kn owledge of the JHS Blood Pre ssure 
+Manual of Proce dures.  S/he sh ould al so be fa miliar with and u nderstand the d ocument titled 
+"Gene ral Instruction s for Completing Pa per Fo rms" prior to c omplet ing
+----------------------------------------
+Summary for extracted_forms\form2\sbpb.pdf:
+Codebook for sbpb Dataset
+DATA SET: sbpb               LABEL:              DATE CREATED: 07OCT15:10:54:54
+Number of Observations: 4197
+Number of Variables: 38
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for sbpb Dataset
+DATA SET: sbpb               LABEL:              DATE CREATED: 07OCT15:10:54:54
+Number of Observations: 4197
+Number of Variables: 38
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form2\SSFB-F.pdf:
+    
+  
+SSF/Version B  07/29/2005    Page 1 of 24  
+ 
+ 
+               
+          
+Stroke Symptoms Form
+ 
+ID NUMB ER:             CONTA CT YEAR:  
+ 
+ 
+    LAST NA ME:                   INITIALS: FORM  CODE:  SSF 
+VERSI ON A  08/09/2000 FORM  CODE:  SSF 
+VERSI ON B 0 7/29/200 5 
+60
+ 
+INSTRUCTIONS :   This for m should be comp leted during the participant’s visit.  ID Nu mber, Contact  Year, and Name must be 
+entered above.  Whenever nu merical respon ses are required, enter the nu mber so that t 
+----------------------------------------
+Summary for extracted_forms\form2\SSFB-Q.pdf:
+SSF B QxQ 09092005  1  
+STROKE SYMPTOMS FORM INSTRUCTIONS  
+SSF VERSION B, 07/29/2005  
+QxQ Prepared:  09/09/2005  
+ 
+ 
+I. General Instructions  
+ 
+The Stroke Symptoms (SSF) form is completed during the  flexible component of the participant's 
+Exam 2 clinic visit.  The interviewer must be c ertified and should have a working knowledge of the 
+document titled "General Instructions for Completing Paper Forms" prior to completing this form.  
+ID Number, Contact Year, and Name should be completed a
+----------------------------------------
+Summary for extracted_forms\form2\ssfb.pdf:
+Codebook for ssfb Dataset
+DATA SET: ssfb               LABEL:              DATE CREATED: 07OCT15:10:54:55
+Number of Observations: 4196
+Number of Variables: 104
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for ssfb Dataset
+DATA SET: ssfb               LABEL:              DATE CREATED: 07OCT15:10:54:55
+Number of Observations: 4196
+Number of Variables: 104
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length 
+----------------------------------------
+Summary for extracted_forms\form3\ABB-Q.pdf:
+Ankle -Brachial Blood Pressure Instructions  
+ABB Version B: 10/21/2008  
+QxQ Date: 02/22/2001  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Ankle -Brachial Blood Pressure (ABB) form is completed during the participant’s 
+clinic visit in conjunction with echocardiogram.  The techn ician must be certified with 
+training in the proper operation and application of the blood pressure apparatus and 
+doppler.  The technician should have a working knowledge of Manual 3: Blood 
+Pressure .  The technician should
+----------------------------------------
+Summary for extracted_forms\form3\ABBB-F.pdf:
+ABB/Version A  10 /21/2000                       1 of 6
+      
+ 
+ 
+ 
+               
+          
+ ID NUMBER:             CONTACT YEAR:  
+ 
+ 
+                      LAST NAME:                   INITIALS:  
+ 
+ 
+INSTRUCTIONS:   This form should be completed during the participant’s clinic visit.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.   Enter leading zeroes where neces
+----------------------------------------
+Summary for extracted_forms\form3\abbb.pdf:
+Codebook for abbb Dataset
+DATA SET: abbb               LABEL:              DATE CREATED: 07OCT15:10:55:05
+Number of Observations: 3801
+Number of Variables: 57
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for abbb Dataset
+DATA SET: abbb               LABEL:              DATE CREATED: 07OCT15:10:55:05
+Number of Observations: 3801
+Number of Variables: 57
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\ADRB-F.pdf:
+  
+  
+ADR/Version B/10/21/2008             1 of 3 
+  
+  
+ ID NUMBER:  
+   L A S T  N A M E :      
+INSTRUCTIONS:  This form should be comp leted during the participant's clinic visit.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeroes where necessary to fill all boxes.  If a number is entered incorrectly, mark through the 
+incorrect entry with an "X".  
+----------------------------------------
+Summary for extracted_forms\form3\ADRB-Q.pdf:
+ 
+Alcohol and Drug Use Form Instructions  
+ADR Version B:  10/21/2008  
+QxQ Date 02/23/2001  
+ 
+ 
+I General Instructions  
+ 
+The Health Practices: Alcohol and Drug Use Form (ADR) is completed during the 
+participant's baseline clinic visit.  The interviewer must be cer tified and should have 
+a working knowledge of the data entry procedures for electronic version forms and 
+the document titled "General Instructions for Completing Paper Forms" prior to 
+completing this form.  ID Number, Contact Y
+----------------------------------------
+Summary for extracted_forms\form3\adrb.pdf:
+Codebook for adrb Dataset
+DATA SET: adrb               LABEL:              DATE CREATED: 07OCT15:10:55:06
+Number of Observations: 3804
+Number of Variables: 16
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for adrb Dataset
+DATA SET: adrb               LABEL:              DATE CREATED: 07OCT15:10:55:06
+Number of Observations: 3804
+Number of Variables: 16
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\BCFB-F.pdf:
+ 
+ 
+BCF Version B 10/16/2008 Page 1 of 5 
+  
+ 
+  Body Compos ition an d 
+Anthropometric Form FORM CODE:  BCF 
+VERSION B 10 /16/2008
+ 
+ 
+  
+ 
+ INITIALS:  CONTACT: 9 0 ID NUMBER: 
+  LAST NAME:   
+ 
+INSTRUCTIONS:  This form is to  be completed during the participant’s clinic visit.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears 
+in the rightmost box.  Enter leading zeroes where necessary to fill 
+----------------------------------------
+Summary for extracted_forms\form3\BCFB-Q.pdf:
+BCF Version A (08/31/2005)  BODY COMPOSITION  FORM INSTRUCTIONS  
+BCF VERSION A: 08/15/2005  
+QxQ Prepared:  08/30/2005  
+ 
+ 
+ 
+I. General Instructions  
+ 
+The Body Composition Form (BDF ) form is completed during the fixed sequence 
+#1 of the participant's Exam 2  visit to record the results of meas uring height, 
+weight, waist and neck circumference  and body composition (body fat, free fat 
+mass, impedance .  The technician must be certified and should have a working 
+knowledge of the data en
+----------------------------------------
+Summary for extracted_forms\form3\bcfv.pdf:
+Codebook for bcfv Dataset
+DATA SET: bcfv               LABEL:              DATE CREATED: 07OCT15:10:55:06
+Number of Observations: 3819
+Number of Variables: 37
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for bcfv Dataset
+DATA SET: bcfv               LABEL:              DATE CREATED: 07OCT15:10:55:06
+Number of Observations: 3819
+Number of Variables: 37
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\CBFA-F.pdf:
+ 
+CBF/Version A 02/10/2009                      1 of 3
+      
+  
+            
+   
+          
+ 
+ID NUMBER:             CONTACT YEAR:  
+ 
+ 
+    LAST NAME:                   INITIALS:  FORM CODE:  CBF 
+VERSION A   01/27/2009  9 Chronic Burden Form 
+ 
+ 
+INSTRUCTIONS:   This form should be completed during the pa rticipant’s clinic visit.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+right
+----------------------------------------
+Summary for extracted_forms\form3\CBFA-Q.pdf:
+CHRONIC BURDEN FORM INSTRUCTIONS  
+CBF VERSION A: 02/10/2009  
+QxQ Prepared: 02/12/2009  
+ 
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Chronic Burden Form (CBR) is administered by trained interviewers during the 
+flexible component of the Exam 3 clinic visit.  This questionnaire  measures 
+psychosocial characteristics that may be important to understanding the causes of 
+cardiovascular diseases.  The technician should be familiar with the data entry 
+procedures for electronic form versions and understa
+----------------------------------------
+Summary for extracted_forms\form3\cbfa.pdf:
+Codebook for cbfa Dataset
+DATA SET: cbfa               LABEL:              DATE CREATED: 07OCT15:10:55:07
+Number of Observations: 3649
+Number of Variables: 21
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for cbfa Dataset
+DATA SET: cbfa               LABEL:              DATE CREATED: 07OCT15:10:55:07
+Number of Observations: 3649
+Number of Variables: 21
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\DISB-F.pdf:
+           
+FORM CODE:  DIS 
+VERSION B  02/12/2009  Discrimination Form           
+  
+       CONTACT YEAR:                             ID NUMBER 0 9 CONTACT YEAR 
+  
+INITIALS     LAST NAME 
+ 
+ 
+  
+ 
+ 
+ 
+ INSTRUCTIONS: This form should be compl eted during the participant's clinic visi t.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeroes where necessary
+----------------------------------------
+Summary for extracted_forms\form3\DISB-Q.pdf:
+Discrimination Form (DIS) Instructions  
+Version B:  01/28/2009  
+Prepared:  07/06/2000  
+Revised:  03/27/2009  
+ 
+ 
+I. General Instructions  
+ 
+The Discrimination Form (DIS) is completed during the participant's clinic visit.  The interviewer must be 
+certified and sho uld have a working knowledge of the document titled "General Instructions for 
+Completing Paper Forms" prior to completing this form.  ID Number, Contact Year, and Name should be 
+completed as described in that document.  
+ 
+II. 
+----------------------------------------
+Summary for extracted_forms\form3\disb.pdf:
+Codebook for disb Dataset
+DATA SET: disb               LABEL:              DATE CREATED: 07OCT15:10:55:08
+Number of Observations: 3626
+Number of Variables: 48
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for disb Dataset
+DATA SET: disb               LABEL:              DATE CREATED: 07OCT15:10:55:08
+Number of Observations: 3626
+Number of Variables: 48
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\FTRC-F.pdf:
+          
+   
+                                                                                                                                               FORM CODE: FTR  
+    
+ID NUMBER:                                  CONTACT YEAR:                                
+Fasting Form
+    VERSION C 10/24/2008 
+09
+  
+ L A S T  N A M E :        I N I T I A L S :       
+ 
+ 
+ 
+INSTRUCTIONS:  This form should be co mpleted during the participant's visit.  ID Number, Contact Year, and Name 
+must be enter
+----------------------------------------
+Summary for extracted_forms\form3\FTRC-Q.pdf:
+FTRC QxQ   1 Deleted: FTR B QxQ_8112005 082807
+Deleted: FTR B QxQ_8112005FASTING/TRACKING FORM INSTRUCTIONS  
+FTR VERSION B:  10/24/2008  
+QxQ Prepared :  08/11/2005  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Fasting/Tracking Form (FTR) is completely filled out at the beginning of the 
+participant's Exam 2 clinic visit.  Portions of this form ma y be updated (in the 
+CHANGE mode of the data entry system) if the participant arrived at the Exam 
+Center having consumed anything other than water or black
+----------------------------------------
+Summary for extracted_forms\form3\ftrd.pdf:
+Codebook for ftrd Dataset
+DATA SET: ftrd               LABEL:              DATE CREATED: 07OCT15:10:55:13
+Number of Observations: 3819
+Number of Variables: 7
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for ftrd Dataset
+DATA SET: ftrd               LABEL:              DATE CREATED: 07OCT15:10:55:13
+Number of Observations: 3819
+Number of Variables: 7
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Mean
+----------------------------------------
+Summary for extracted_forms\form3\hcta.pdf:
+Codebook for hcta Dataset
+DATA SET: hcta               LABEL:              DATE CREATED: 07OCT15:10:55:13
+Number of Observations: 3778
+Number of Variables: 29
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for hcta Dataset
+DATA SET: hcta               LABEL:              DATE CREATED: 07OCT15:10:55:13
+Number of Observations: 3778
+Number of Variables: 29
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\HCTB-F.pdf:
+ 
+ 
+Health Care Continuity and Trust 
+ FORM CODE:  HCT  
+   VERSION B 12/10/2008 
+ID NUMBER:                                                              CONTACT YEAR:                               
+  
+ 
+LAST NAME:                                                                                          INITIALS:   0 9 
+  
+ 
+ 
+“The next set of questions are about your health care.” 
+ 1. Is there a particular place that you usually
+ go to when 
+ you are sick or need advice about your health? …….……
+----------------------------------------
+Summary for extracted_forms\form3\HCTB-Q.pdf:
+Health Care Continuity and Trust Form Instructions (HCT)  
+Version B 12/10/2008  
+QxQ Date 02/09/2009  
+ 
+ 
+ 
+I.  General Instructions  
+ 
+The health Care Continuity and Trust Form (HCT) is completed by trained interviewers 
+during the flexible component of the Exam 3 Cli nic visit. The interviewer must be certified 
+and have working knowledge of the document “General Instructions for Completing Paper 
+Forms” prior to completing this form.  ID, Contact Year and Name are completed as 
+described i
+----------------------------------------
+Summary for extracted_forms\form3\MHXC-F.pdf:
+. 
+ 
+ 
+  Medical History Form  
+ FORM CODE:  MHX 
+ VERSION C 10/22/2008 
+ID NUMBER:  CONTACT YEAR:      CONTACT: 
+ 
+LAST NAME:                INITIALS: 
+ 
+ 
+INSTRUCTIONS:  This form should be completed during the participant's visit.  ID  Number, Contact Year, and Name must be 
+entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the rightmost box.  Enter leading zeroes where necessary to fill all boxes.  If a paper form is used and a numb
+----------------------------------------
+Summary for extracted_forms\form3\MHXC-Q.pdf:
+MHX QxQ   1 MEDICAL HISTORY FORM INSTRUCTIONS  
+MHX VERSION C: 10/22/08  
+QxQ Prepared  : 01/14/09  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Medical History (MHX) form is completed during the interview portion of the 
+participant's Exam 2 clinic visit. The interviewer must be certifie d and should have a 
+working knowledge of data entry procedures for electronic version forms and the 
+document titled "General Instructions for Completing Paper Forms" prior to 
+completing this form.  ID Number, Contac
+----------------------------------------
+Summary for extracted_forms\form3\mhxc.pdf:
+Codebook for mhxc Dataset
+DATA SET: mhxc               LABEL:              DATE CREATED: 07OCT15:10:55:16
+Number of Observations: 3801
+Number of Variables: 90
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for mhxc Dataset
+DATA SET: mhxc               LABEL:              DATE CREATED: 07OCT15:10:55:16
+Number of Observations: 3801
+Number of Variables: 90
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\MSRC-F.pdf:
+  
+Medication Surve y Form   
+FORM CODE:  MSR 
+VERSION C  10/09/2008  
+  
+ 
+ 
+  
+  
+  
+  
+      
+  
+  
+  
+  
+    
+  
+    
+  
+A.  RECEPTION A.  RECEPTION 
+  1. Have you taken any medications in the past two weeks?    1. Have you taken any medications in the past two weeks?    
+This includes all prescription me dications, all over-the-counter  
+medications, all vitamins, minerals, herbs and dietary supplements? ………………………………………………………… Yes  1 This includes all prescription me dications, all over-the
+----------------------------------------
+Summary for extracted_forms\form3\MSRC-Q.pdf:
+MSR QxQ   Page 1 of 19 MEDICATION SURVEY FORM INSTRUCTIONS  
+MSR, VERSION B: 08/13/2005  
+QxQ Prepared:  08/13/2005  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Medication Survey (MSR) form is completed during the participant ‘s Exam 2  
+clinic exam visit.  The purpose of the MSR is to assess medicat ion usage in the two 
+weeks  preceding the examination date.  Information on both prescription and non -
+prescription drugs and herbals is ascertained.  To obtain this information, the 
+participant is aske
+----------------------------------------
+Summary for extracted_forms\form3\msrc.pdf:
+Codebook for msrc Dataset
+DATA SET: msrc               LABEL:              DATE CREATED: 07OCT15:10:55:29
+Number of Observations: 3813
+Number of Variables: 294
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length MeanRange of
+ValuesFrequency
+Category Frequency Percent
+SUBJID PARTICIPANT ID Char$ 7 -
+VISIT CONTACT OCCASION Num 8 9 9.00-9.00 3813100.00
+3813 100.00
+MSRC1 1. Have you taken any medications in the past two weeks?  Th
+----------------------------------------
+Summary for extracted_forms\form3\PACB-F.pdf:
+ 
+  FORM CODE:  PAC  Physical Activity Form
+   VERSION B 2/2/2009 
+ID NUMBER:                                                                            CONTACT YEAR:                                
+  
+ 
+LAST NAME:                                                                                                   INITIALS:   09 
+  
+ 
+“Now I’m going to ask you some questions about your physical activity during the past year.  First, we would like to know about the general level of physical  activit
+----------------------------------------
+Summary for extracted_forms\form3\PACB-Q.pdf:
+ 1  
+QXQ INSTRUCTIONS  FOR PHYSICAL ACTIVITY (PAC B) FORM   
+Revised 1/26/2009  
+ 
+GENERAL INSTRUCTIONS  
+ 
+The Physical Activity Form (Form Code PAC) is completed by a certified intervie wer 
+who understands  the general instructions for completing the paper forms.  ID N umber, 
+Contact Year, La st Name, and Initials are entered as on other forms.  Items on the form 
+enclosed in boxes or brackets are instructions to the interviewer, and are not stated 
+verba lly during the interview.  Text  in 
+----------------------------------------
+Summary for extracted_forms\form3\pacb.pdf:
+Codebook for pacb Dataset
+DATA SET: pacb               LABEL:              DATE CREATED: 07OCT15:10:55:30
+Number of Observations: 3776
+Number of Variables: 43
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for pacb Dataset
+DATA SET: pacb               LABEL:              DATE CREATED: 07OCT15:10:55:30
+Number of Observations: 3776
+Number of Variables: 43
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\PDSB-F.pdf:
+ 
+ 
+ 
+          Personal Data - Socioeconomic Status 
+ 
+                  FORM CODE:  PDS 
+VERSION B 1/29/2009 
+ 
+ 
+ 
+ 
+  
+ 
+  
+“Now I would like to ask you a few questions about yourse lf. In studies like this we often compare the ideas of 
+men and women, young and old persons, and people of different economic backgrounds. The following 
+questions are designed to assess some of your current and early life experiences. We realize that many of 
+these refer to events that happened a long time ago.
+----------------------------------------
+Summary for extracted_forms\form3\PDSB-Q.pdf:
+PERSONAL DATA AND SOCIOECONOMIC STATUS (PDS) FORM 
+INSTRUCTIONS  
+VERSION A, 06/12/2000  
+Prepared:  06/12/2000  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Personal Data and Socioeconomic (PDS) form is the final data collection 
+component of the Home Induction Interview and is perhaps the most sensitive 
+component of this interview. The PDS collects information on participant and formal 
+occupation, education, income and wealth as well as perceived status.  The 
+placement of these items at the end of 
+----------------------------------------
+Summary for extracted_forms\form3\pdsb.pdf:
+Codebook for pdsb Dataset
+DATA SET: pdsb               LABEL:              DATE CREATED: 07OCT15:10:55:32
+Number of Observations: 3758
+Number of Variables: 63
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for pdsb Dataset
+DATA SET: pdsb               LABEL:              DATE CREATED: 07OCT15:10:55:32
+Number of Observations: 3758
+Number of Variables: 63
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\PFHB-F.pdf:
+ 
+  
+ FORM CODE:  PFH 
+Personal and Family Health History Form
+      VERSION B 2/3/2009 
+ID NUMBER:      CONTACT YEAR:  
+  
+ 
+LAST NAME:     INITIALS: 09 
+ 
+ 
+“I would like to ask you a few questions about your health and that of your parents.” 
+ 
+1. Compared to other people your age, would you say  
+that your health is excellent , good , fair, or poor ?  ..................  Excellent 1 
+  [Don't know = 7, Refused = 8, Missing = 9]  
+   Good 2 
+   
+   Fair 3 
+ 
+   Poor 4 
+  
+ 
+2. Since this time
+----------------------------------------
+Summary for extracted_forms\form3\PFHB-Q.pdf:
+PERSONAL AND FAMILY HEALTH HISTORY FORM INSTRUCTIONS (PFH)  
+VERSION B: 02/03/2009  
+QxQ DATE 02/09/2009  
+ 
+ 
+I.  GENERAL INSTRUCTIONS  
+ 
+The Personal and Family History (PFH) is completed during the participant’s clinic 
+visit and collects information on the participa nt’s health status, personal health 
+history, and family health history.  Questions should not be skipped unless indicated 
+by the skip pattern instructions.  Because there are several skip patterns in this 
+section, the intervi
+----------------------------------------
+Summary for extracted_forms\form3\pfhb.pdf:
+Codebook for pfhb Dataset
+DATA SET: pfhb               LABEL:              DATE CREATED: 07OCT15:10:55:34
+Number of Observations: 3794
+Number of Variables: 108
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for pfhb Dataset
+DATA SET: pfhb               LABEL:              DATE CREATED: 07OCT15:10:55:34
+Number of Observations: 3794
+Number of Variables: 108
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length 
+----------------------------------------
+Summary for extracted_forms\form3\RDFB-F.pdf:
+     
+  
+   
+ Renal Disease Form     
+FORM CODE:  RDF                    
+VERSION B 10/21/2008         
+ 
+I D  N U M B E R :                     C O N T A C T  Y E A R :   0 9 
+  
+     L A S T  N A M E :                            I N I T I A L S :   
+ 
+ 
+INSTRUCTIONS:  This form should be completed during the interview portion of the participant's visit.  ID 
+Number, Contact Year, and Name must be entered above.   Whenever numerical responses are required, enter 
+the number so that the last dig
+----------------------------------------
+Summary for extracted_forms\form3\RDFB-Q.pdf:
+RENAL DISEASE FORM  INSTRUCTIONS  
+RDF VERSION A : 08/13/2005 
+QxQ Prepared:  09/09/2005  
+ 
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Renal Disease Form  (RDF) is administered by trained interviewers during 
+the flexible component of the Exam 2 clinic visit. It collects infor mation on the 
+participant’s symptoms and history of potential or confirmed renal disease. It is 
+an expansion of the single dialysis time included in the Medical History Form 
+(MHX -A) during Exam 1. The exact wording and order
+----------------------------------------
+Summary for extracted_forms\form3\rdfb.pdf:
+Codebook for rdfb Dataset
+DATA SET: rdfb               LABEL:              DATE CREATED: 07OCT15:10:55:35
+Number of Observations: 3653
+Number of Variables: 44
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for rdfb Dataset
+DATA SET: rdfb               LABEL:              DATE CREATED: 07OCT15:10:55:35
+Number of Observations: 3653
+Number of Variables: 44
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\SBPC-F.pdf:
+ 
+SBP/Version  C/10-21-2008                                                                                                                                                                                                                        1 of 4 
+   
+ 
+ 
+ 
+           
+                                       
+ ID NUMBER:        CONTACT YEAR:    
+  
+ 
+LAST NAME:           INITIALS:     
+ 
+ 
+ 
+A. TEMPERATURE  
+  
+ 1. Room T emperature (degrees centigrade):………………………………………  
+                      
+----------------------------------------
+Summary for extracted_forms\form3\SBPC-Q.pdf:
+SBP B QxQ (08/27/2005)   Page 1 of 3 SITTING BLOOD PRESSURE FORM  INSTRUCTIONS  
+SBP VERSION C, 10/21/2008  
+QxQ Prepared : 08/27/2005  
+ 
+ 
+I. General Instructions  
+ 
+The Sitting Blood Pressure (SBP) form is completed during the participant's Exam 2  visit. The 
+technician must be certified and should ha ve a working knowledge of the JHS Blood Pressure 
+Manual of Procedures.  S/he should also be familiar with and understand the document titled 
+"General Instructions for Completing Paper Forms"
+----------------------------------------
+Summary for extracted_forms\form3\sbpc.pdf:
+Codebook for sbpc Dataset
+DATA SET: sbpc               LABEL:              DATE CREATED: 13OCT15:08:20:15
+Number of Observations: 3818
+Number of Variables: 32
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for sbpc Dataset
+DATA SET: sbpc               LABEL:              DATE CREATED: 13OCT15:08:20:15
+Number of Observations: 3818
+Number of Variables: 32
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\slea.pdf:
+Codebook for slea Dataset
+DATA SET: slea               LABEL:              DATE CREATED: 07OCT15:10:55:38
+Number of Observations: 3782
+Number of Variables: 29
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for slea Dataset
+DATA SET: slea               LABEL:              DATE CREATED: 07OCT15:10:55:38
+Number of Observations: 3782
+Number of Variables: 29
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\SLEB-F.pdf:
+                 
+   
+ 
+  Sleep History Form  FORM CODE:  SLE 
+VERSION A 1/29/2009 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+A. SLEEP  The following questions are about your sleep.  Please consider both what others have told you about your sleep and what you kno w 
+yourself.    1. How much sleep do you usually get at night (or your   main sleep period) on weekdays or workdays?   
+ 
+2. How long does it usually take  you to fall asleep at bedtime? 
+ 
+  LAST NAME:  PARTICIPANT ID NUMBER:  
+INITIALS: 0 9 C
+----------------------------------------
+Summary for extracted_forms\form3\SLEB-Q.pdf:
+SLEEP HISTORY FORM  
+SLE VERSION B 10/14/2008  
+QxQ Date 01/22/2009  
+ 
+I. General Instructions  
+ 
+The Sleep History Form is completed during the participant’s clinic visit.  
+The interviewer must be certified and should have a working knowledge 
+of the data entry procedures for electronic version forms and document 
+titled “General Instructions for Completing Paper Forms” prior to 
+completing this form. ID  Number, Contact Year, and Name should be 
+completed as described in that document.  
+ 
+
+----------------------------------------
+Summary for extracted_forms\form3\SSFC-F.pdf:
+    
+SSF/Version C 10/22/2008    Page 1 of 22 
+                  
+  
+ID NUMBER:             CONTACT YEAR:  
+ 
+ 
+                      LAST NAME:                   INITIALS:  
+ 
+INSTRUCTIONS:   This form should be completed during the participant’s visit.  ID Number, Contact Year, and Name must be 
+entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the rightmost 
+box.  Enter leading zeroes where necessary to fill all bo xes.  If a number 
+----------------------------------------
+Summary for extracted_forms\form3\SSFC-Q.pdf:
+SSF B QxQ 01/29/2009  1  
+STROKE SYMPTOMS FORM INSTRUCTIONS  
+SSF VERSION C, 1/29/2009  
+QxQ Prepared:  09/09/2005  
+ 
+ 
+I. General Instructions  
+ 
+The Stroke Symptoms (SSF) form is completed during the  flexible component of the participant's 
+Exam 2 clinic visit.  The interviewer must be ce rtified and should have a working knowledge of the 
+document titled "General Instructions for Completing Paper Forms" prior to completing this form.  
+ID Number, Contact Year, and Name should be completed 
+----------------------------------------
+Summary for extracted_forms\form3\ssfc.pdf:
+Codebook for ssfc Dataset
+DATA SET: ssfc               LABEL:              DATE CREATED: 07OCT15:10:55:39
+Number of Observations: 3803
+Number of Variables: 107
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for ssfc Dataset
+DATA SET: ssfc               LABEL:              DATE CREATED: 07OCT15:10:55:39
+Number of Observations: 3803
+Number of Variables: 107
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length 
+----------------------------------------
+Summary for extracted_forms\form3\STXB-F.pdf:
+                                                                                      FORM CODE:  STX Hassles an d Moods D  
+      VERSION B  02/02/2009 
+ID NUMBER:                                   CONTACT YEAR: 
+  
+LAST NAME:              INITIALS: 09
+ 
+ 
+ 
+ Everyone feels angry or furious from time to time, but people differ in the ways that they react when they 
+are angry.  A number of statements are listed below which people use to describe their reactions when 
+they feel angry or furious. 
+----------------------------------------
+Summary for extracted_forms\form3\stxb.pdf:
+Codebook for stxb Dataset
+DATA SET: stxb               LABEL:              DATE CREATED: 07OCT15:10:55:39
+Number of Observations: 3636
+Number of Variables: 22
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for stxb Dataset
+DATA SET: stxb               LABEL:              DATE CREATED: 07OCT15:10:55:39
+Number of Observations: 3636
+Number of Variables: 22
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\form3\TOBB-F.pdf:
+Health  Practices :  Tobacco Use  
+ 
+            
+ID NUMBER:    CONTACT YEAR: 
+ 
+LAST NAME:   INITIALS: 
+ 
+ 
+ 
+ 
+“Now I have a series of questions about your health habits.  The first question involves your exposure to cigarette smoke. The re maining questions will be  about tobacco use.” 
+  
+1. In the past year about how many hours per week, 
+on the average, were you in close contact with people where they      00=less than 1hr  
+ were smoking?  For example, at work,  
+your home, in a car, or  
+----------------------------------------
+Summary for extracted_forms\form3\TOBB-Q.pdf:
+Health Practices: Tobacco Use Form Instructions  
+TOB Version B , 02/24/2009 
+QxQ Date 02/2 4/2009  
+I. GENERAL INSTRUCTIONS  
+The Health Practices: Tobacco  Use Form (TOB) is completed during the clinic visit and 
+collects data regarding all forms of tobacco use ove r the participant‟s lifetime. The 
+interviewer must be certified and s/he should be familiar with and understand the 
+document entitled "General Instructions for Completing Paper Forms" prior to 
+completing this form. ID, Contact Ye
+----------------------------------------
+Summary for extracted_forms\form3\tobb.pdf:
+Codebook for tobb Dataset
+DATA SET: tobb               LABEL:              DATE CREATED: 07OCT15:10:55:40
+Number of Observations: 3803
+Number of Variables: 52
+Organization of file: Summary of JHS Participants (SUBJID)Codebook for tobb Dataset
+DATA SET: tobb               LABEL:              DATE CREATED: 07OCT15:10:55:40
+Number of Observations: 3803
+Number of Variables: 52
+Organization of file: Summary of JHS Participants (SUBJID)
+Variable
+Name Variable Label (VAR)VAR
+TypeVAR
+FormatVAR
+Length Me
+----------------------------------------
+Summary for extracted_forms\OtherIFU\AF1A-F.pdf:
+  
+First Year Questionnaire                           
+            F ORM CODE: AF1 
+VERSION A 11-8-2001 
+ID NUMBER:  CONTACT Y EAR: 
+  
+ 
+LAST NAME: INITIALS :   
+ 
+ 
+ 
+INSTRUCTIONS:  This form should be c ompleted during the first year annual follow-up c all.  ID Number, Contac t Year, and Name 
+must be entered above.  Whenever numerical responses are requ ired, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeroes where necessary to fill all boxes.  If a 
+----------------------------------------
+Summary for extracted_forms\OtherIFU\AF1A-Q.pdf:
+First Year Questionnaire Form Instructions 
+AF1, Version A, 11-8-2001 
+QxQ Date 11-8-2001 
+ 
+I.  GENERAL INSTRUCTIONS 
+ 
+The First Year Questionnaire (AF1) is comple ted as the last of the four annual follow-
+up forms and is administered ONLY during the first annual contact on or near the first 
+anniversar y of the participant baseline JHS clinic examinat ion.  These questions are 
+intended to capture additional information regarding participant stress by asking 
+about major life events (SME) an
+----------------------------------------
+Summary for extracted_forms\OtherIFU\AF2A-F.pdf:
+ FORM CODE: AF2    
+SecondYearQuestionnaire 
+SecondYearQuestionnaire 
+Second Year Questi onnaire
+ VERSION A  5/29/2001  
+ 
+ID NUMBER: CONTACT YEAR: 
+ 
+ 
+LAST NAME: INITIALS : 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ INSTRUCTIONS:  This form should be c ompleted during the sec ond year annual follow-up c all.  ID Number, Contac t Year, and 
+Name must be entered above.  Whenever numerical responses ar e required, enter the number so that the last digit appears in 
+the rightmost box.  Enter leading zeroes where necess
+----------------------------------------
+Summary for extracted_forms\OtherIFU\AF2A-Q.pdf:
+AF2A QxQ 02- 25-2001   1 Second Year Questionnaire Form Instructions  
+AF2 Version A, 12/07/1999  
+QxQ Date 02/25/2001  
+ 
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Second Year Questionnaire (AF2) form is appended to the routine annual follow up (AFU) interview form and is asked ONLY during the seco nd annual call two years 
+after the baseline clinic examination. These questions are intended to capture additional information regarding participant orientation to life by asking about optimism (LOT) and ad
+----------------------------------------
+Summary for extracted_forms\OtherIFU\AF3A-F.pdf:
+ Third Year Questionnaire   
+ FORM CODE:  AF3
+ VERSION A  5-29-2001  
+ 
+ ID NUMBER: CONTACT YEAR: 
+ 
+ 
+ LAST NAME:    INITIALS : 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ INSTRUCTIONS:  This form should be c ompleted during the th ird year annual follow-up c all.  ID Number, Contac t Year, and 
+Name must be entered above.  Whenever numerical responses ar e required, enter the number so that the last digit appears in 
+the rightmost box.  Enter leading zeroes where necessary to fill all boxes.  If a number is entered 
+----------------------------------------
+Summary for extracted_forms\OtherIFU\AF3A-Q.pdf:
+Third Year Questionnaire Form Instructions 
+AF3 Versi on A, 5-29-2001 
+QxQ Date 9-10-2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Third Year Questionnaire (AF3) is comp leted as the last of the four annual 
+follow-up forms and is admin istered ONLY during the third annual contact on or near 
+the third anniversary of the participant bas eline JHS clinic examination. These 
+questions are intended to capture additi onal information regarding p articipant 
+assessment of the degree to which they  can ove
+----------------------------------------
+Summary for extracted_forms\OtherIFU\AFEA-F.pdf:
+AFE-updated 11/3/2014  
+  
+    
+ 
+  
+1.  When you first enrolled in the Jackson Heart Study, if you were smoking cigarettes at that time, 
+was your preferred brand of cigarettes menthol flavored?  
+       Yes  Y 
+       No  N 
+           Not sure   U 
+         Not smoking at that time  S 
+                                 Don’t know    D 
+            Refused   R 
+              
+2.  IF NOT A CURRENT SMOKER [ANSWERED “NO” TO ITEM 30, AFU] RECORD “ S” FOR THIS ITEM  
+ Is your current preferred brand
+----------------------------------------
+Summary for extracted_forms\OtherIFU\RHXB-F.pdf:
+     
+RHS/Version B 10/22/2010  
+  
+ 
+ 
+ 
+                   
+       
+ 
+ID NUMBER:                    CONTACT YEAR:  
+ 
+ 
+                       LAST NAME:                            INITIALS:  
+ 
+ 
+INSTRUCTIONS:  These questions about menopause status are being asked of FEMALE participants  who reported that they had 
+not reached menopause at exam 1 .  A significant portion of these participants may have reached menopause s ince Exam 1. For 
+some research questions, it is important to know whet
+----------------------------------------
+Summary for extracted_forms\OtherIFU\RHXB-Q.pdf:
+Reproductive History Form  
+RHS Version B  
+QxQ Date 09/22/2011  
+ 
+ 
+ 
+I.  General Instructions  
+ 
+The Reproductive History Form is completed during the participant’s 
+clinic visit.  The interviewer must be certified and should have a working 
+knowledge of the data en try procedures for electronic version forms and 
+document titled “General Instructions for Completing Paper Forms” 
+prior to completing this form. ID Number, Contact Year, and Name 
+should be completed as described in that docume
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFOA-F.pdf:
+AFOA  5-29-2001.doc  1 of 4
+ 
+FORM CODE: AFO
+ ID NUMBER: CONTACT YEAR : VERSION A  5-29-2001
+ 
+ LAST NAME: INITIALS:
+INSTRUCTIONS:  This form should  be completed each year during the annual follo w-up call.  ID Number, Contact Year, and Name
+must be entered above.  Whenever numerical responses are requ ired, enter the number so that the last digit appears in the
+rightmost box.  Enter leading zeroes where necessary to fill all boxes.  If a number is entered incorrectly, mark through the
+incorrec
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFOA-Q.pdf:
+Annual Follow-Up Other Form Instructions 
+AFO Version A 5-29-2001 
+QxQ Date:  8-22-2001 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+The Annual Follow-Up Other (AFO) form is  completed as the second of four 
+annual follow-up forms administered each year  on or near the anniversary of the 
+participant’s baseline JHS clinic exami nation. It is completed immediately 
+following completion of the AFU form. The interviewer must be certified and 
+should have a working knowledge of the annual follow-up procedures. S
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFOB-F.pdf:
+  Annual Follow-Up Other Form     
+            F ORM CODE: AFO 
+ ID NUMBE R: CONTACT  YEAR: VERSION B 7 -28-2 004 
+  
+ 
+ LAST NAME: INITIALS: 
+ 
+INSTRUCTIONS :  This for m should be compl eted each year  during the an nual follow-up call.  ID Numb er, Contact Ye ar, and Name 
+must be enter ed above.  Whenever numeri cal responses are required, e nter the nu mber so that the l ast digit appears in the 
+rightmost box .  Enter leadin g zeroes wher e necessary to fill all boxes.  If a number is ente
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFOC-F.pdf:
+ 
+ 
+ 
+ 
+              F ORM CODE: AFO 
+Annual Follow-Up Other Form     
+ ID NUMBE R: CONTACT  YEAR: VERSION C  8/15/20 06 
+  
+ 
+ LAST NAME: INITIALS: 
+ 
+INSTRUCTIONS :  This for m should be compl eted each year  during the an nual follow-up call.  ID Numb er, Contact Ye ar, and Name 
+must be enter ed above.  Whenever numeri cal responses are required, e nter the nu mber so that the l ast digit appears in the 
+rightmost box .  Enter leadin g zeroes wher e necessary to fill all boxes.  If a number
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFOC-Q.pdf:
+Annual Follow -Up Other Form Instructions 
+AFO Version C : 08/18/2005 
+QxQ Prepared:  08/19/2005 
+ 
+ 
+I. GENERAL INSTRUCTIONS 
+ 
+Annual follow-up of the JHS cohort is used to maintain contact and correct 
+address information of cohort participa nts, ascertain vital status, and 
+document interim medical and life course events, which have occurred since 
+the last contact.  Annual follow-up  contacts are scheduled approximately 
+every 12 months based on a schedule that  accommodates the date of the
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFOD-F.pdf:
+ 
+ 
+ 
+ 
+              F O R M  C O D E :  A F O  
+Annual Follow-Up Other Form     
+ ID NUMBER: CONTACT YEAR: VERSION D 10/15/2006 
+  
+ 
+ LAST NAME: INITIALS: 
+ 
+INSTRUCTIONS:  This form should be compl eted each year during the annual follow-up call.  ID Number, Contact Year, and Name 
+must be entered above.  Whenever numerical responses are required, enter the number so that the last digit appears in the 
+rightmost box.  Enter leading zeroes where necessary to fill all boxes.  If a number is en
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFUA-F.pdf:
+  Annual Follow-Up Questionnaire Form 
+FORM CODE:  AFU 
+VERSION A  8- 23-2 001 
+Content identi cal to ARIC  AFU 
+Version I (0 4/11/20 01) e xcept 
+item #36 result c odes  
+ 
+ 
+ID NUMBER: CONTACT YEAR:  
+ 
+ 
+LAST NA ME: INITIALS: 
+ 
+ 
+INSTRUCTIONS :  This for m should be co mpleted during th e annual follow-up telephone contact.  ID Number, Co ntact Year, 
+and Name must be entered above.  Whenever numerical responses are required, ente r the number  so that the last digit 
+appears in the right mo
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFUA-Q.PDF:
+AFUA QxQ 10-16-2001.doc          1  Annual Follow-Up Tracing Form and Questionnaire Instructions 
+AFU Version A, 8-23-2001 
+QxQ Date 10-16-2001 
+ 
+ 
+I. General Instructions 
+ 
+The Annual Follow-Up Form (AFU) is completed as the first of four annual follow-up forms administered each year on or near  the anniversary of the participant’s 
+baseline JHS clinic examination. This form corresponds to the core AFU for the 
+ARIC cohort and, for all ARIC/JHS participants,  is entered directly into the ARIC
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFUB-F.pdf:
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ID NUMBER: CONTACT YEAR:  FORM CODE:  AFU 
+VERSION B 08/ 05/20 05 
+Content identi cal to ARIC  AFU 
+Version I (0 4/11/20 01) e xcept 
+item #36 result c odes Annual Follow-Up Questionnaire Form 
+ 
+ 
+LAST NA ME: INITIALS: 
+ 
+INSTRUCTIONS :  This for m should be co mpleted during th e annual follow-up telephone contact.  ID Number, Co ntact Year, 
+and Name must be entered above.  Whenever numerical responses are required, ente r the number  so that the last digit 
+appears in the righ
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFUB-Q.pdf:
+ Annual Follow -Up Tracing Form and Questionnaire Instructions 
+AFU Version B: 8/05/2005 
+QxQ Prepared : 8/10/2005 
+ 
+ 
+I. General Instructions 
+ 
+Annual follow-up of the JHS cohort is used to maintain contact and correct address 
+information of cohort participants, ascert ain vital status, and document interim 
+medical and life course events, which have occurred since the last contact. Annual 
+follow-up contacts are scheduled approx imately every 12 months based on a 
+schedule that accommodates
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFUD-Q.pdf:
+1 
+ 
+AFU C QxQ 10/14/08  INSTRUCTIONS FOR THE ANNUAL FOLLOW -UP TRACING FORM AND  
+QUESTIONNAIRE, AFU, VERSION C. 
+8/23/2006  
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+Annual follow -up of the Jackson Heart Study (JHS) cohort is used to maintain contact and correct 
+address information of coh ort participants, ascertain vital status, and document interim medical 
+and life course events, which have occurred since the last contact.  Annual follow -up contacts are 
+scheduled approximately every 12 months.  Ea
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFUEF.pdf:
+Annual Follow-Up Form (AFU) Page 1 of 13 
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ADMINISTRATIVE INFORMATION 
+0a. Completion Date: / / 0b. Staff ID: 
+Month Day Year 
+ 
+Instructions: This form should be completed during the interview portion of the participant's follow-up. The Date 
+is the day the contact was made or is the date the status determination was made. Special missing values are 
+allowed for cases where the response “Don’t know”, “Refused”, “Unknown”, or “N/A” is not listed as an 
+----------------------------------------
+Summary for extracted_forms\PastAFU\AFUEQ.pdf:
+Annual Follow-up QxQ 01/22/2014 Page 1 of 17 
+  
+ 
+INSTRUCTI ONS FOR THE ANNUAL FOLLOW-UP 
+INTER VIEW (AFU, VERSION 2, 01/22/2014)  AND 
+PARTICIPANT TRACING REPORTS QxQ  
+01/22/2014  
+updated 
+7/25/2014  
+ 
+ 
+I. General Instructions  
+ 
+Annual follow-up of  the JHS Study cohort is used to maintain contact and correct address information of 
+cohort participants, ascertain vital status, and document interim medical and life course ev ents which 
+have occurred since the last contact.  Each routine 
+----------------------------------------
+Summary for extracted_forms\PastAFU\ARCA-F.pdf:
+            
+ARCA 02-27-2004   Page 1 of 2      
+  Annual Follow-up Record of Calls  
+ 
+ PARTICIPANT 
+ ID NUMBER: CONTACT YEAR: 
+  
+ 
+ LAST NAME: INITIALS: FORM CODE:  ARC 
+VERSION A 02-27-04 
+ 
+ 
+ 
+DATE OF BASELINE VISIT:       EARLIEST DATE OF CONTACT: 
+ 
+ 
+m m d d y y y y m m d d y y y y / / / / / / 
+ 
+TARGET CONTACT DATE:       LATEST CONTACT DATE: 
+ 
+ 
+m m d d y y y y m m d d y y y y / / / / / / 
+ 
+ 
+ 
+ INSTRUCTIONS :  Use th is form to  reco rd every call t o the participant.  Complete as 
+----------------------------------------
+Summary for extracted_forms\PastAFU\ARCA-Q.pdf:
+ARCA QxQ 10-25-2001.doc  1 Annual Follow-Up Record of Calls Instructions 
+ARC Version A:  10-25-2001 
+QxQ Date:  10-25-2001  
+ 
+I. GENERAL INSTRUCTIONS  
+ 
+The Annual Follow-Up Record of Calls (ARC) form serves to document the initiation 
+and final status of the annual follow-up proc edure by keeping track of attempts to 
+contact a participant and appointment scheduli ng, if due. It is completed as one of 
+the four annual follow-up forms administered each year on or near the anniversary of 
+the 
+----------------------------------------
+Summary for extracted_forms\PastAFU\DCSA-Q.pdf:
+I. General Instructions  
+The Jackson Heart Study (JHS)  Digital Connectivity Survey is administered to aid the JHS 
+investigators in find ing out what kind of e lectronic tools the participant s are using, including 
+computers, internet, and cell phones. This information will aid them in conducting research 
+on their heart and general health. 
+ 
+II. Detailed Instructions for Each Item  
+0a. Enter participant’s full first name, middle initial, and full las t name.  
+0b. Enter the participant’s d
+----------------------------------------
+Summary for extracted_forms\PastAFU\DCSA.pdf:
+Confidential  
+Page 1 of 6 Jackson Heart Study Electronic Device Survey  
+ID NUMBER  __________________________________  
+Contact Year  __________________________________  
+LAST NAME  __________________________________  
+INITIALS  __________________________________  
+A. INTERNET
+Jackson Heart Study investigators  are thinking about us ing new electronic tools to 
+conduct research on your heart and general health. We are interested in finding out 
+what kind of electronic tools y ou use, including
+----------------------------------------
+Summary for extracted_forms\PastAFU\GNEA.pdf:
+Semi-Annual Follow-Up General Interview (GNE) Page 1 of 4   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADMINISTRATIVE INFORMATION 
+ 
+0a. Completion Date: / / 0b. Staff ID: 
+Month Day Year 
+ 
+Instructions: This form is completed during the six-month follow up to the participant’s annual follow-up interview. The 
+date is the day the contact is made, or is the date the status determination is made. Special missing values are 
+allowed for cases where the response “Don’t know”, “Refused”, “Unknown”,
+----------------------------------------
+Summary for extracted_forms\PastAFU\GNEB.pdf:
+General Interview (GNB ) Page 1 of 3   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADMINISTRATIVE INFORMATION  
+ 
+0a. Completion Date:  / / 0b. Staff  ID: 
+Month Day Year  
+ 
+ 
+ 
+A. Physi cal Activity  
+1. In comparison with others of your own age, do you think your physical activity during leisure time is: 
+A. Much  Less  ........................ A 
+B. Less  .................................. B 
+C. The same.......................... C 
+D. More  ................................. D 
+E. Much  More  .............
+----------------------------------------
+Summary for extracted_forms\PastAFU\GNEB_QxQ.pdf:
+GNB Questions QxQ      12/20/2017 Page 1 of 5   
+GENERAL INTERVIEW QUESTIONS 
+(12/20/2017) (GNB, VERSION 1, 12/20/2017)  
+I. General Instructions
+The semi-annual follow-up general interview questions (GNB) are completed during the semi-
+annual follow up interview following the semi-annual follow-up core questions (SAF).  The GNB  
+interview is not administered to proxy respondents or contacts who answer the SAF questions 
+about the JHS study participant, nor is the GNB interview administered to 
+----------------------------------------
+Summary for extracted_forms\PastAFU\GNED.pdf:
+Annual Follow -Up General Interview (GN D)    Version D                                                                                         Page 1 of 3 
+  
+ 
+         
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ADMINISTRATIVE INFOR MATION   
+ 
+0a. Completion Date:  / /  0b. Staff ID:        
+   Month  Day Year  
+ 
+Instructions:  This form is completed during the participant’s annual follow -up interview. The date is the da y the 
+contact is made, or is the date the status determination is made. Special missing v
+----------------------------------------
+Summary for extracted_forms\PastAFU\GNED_QxQ.pdf:
+GND Questions QxQ  01/01/2021  Page 1 of 5  INSTRUCTIONS FOR ANNUAL FOLLOW-UP  
+GENERAL INTERVIEW QUESTIONS 
+GND, VERSION 1, 01/01/2021  
+ 
+ 
+ 
+I. General  Instructions  
+ 
+The semi -annual follow -up general interview questions (GNH) are completed during the semi - 
+annual follow up interview following the semi -annual follow -up core questions (SAF). The GNH 
+interview is not administered to proxy respondents or contacts who answer the SAF questions 
+about the JHS  study participant, nor is th
+----------------------------------------
+Summary for extracted_forms\PastAFU\GNE_QxQ.pdf:
+GNE Questions QxQ                                                       12/15/ 2015                                           Page 1 of 6 
+     INSTRUCTIONS FOR THE SEMI -ANNUAL 
+FOLLOW -UP  
+GENERAL INTERVIEW QUESTIONS  (12/15/2015 ) 
+(GNE, VERSION 1, 10/14 /2015 )  
+ 
+I. General Instructions  
+ 
+The semi -annual follow -up general interview questions (G NE) are completed during the semi -
+annual follow up int erview following the semi -annual follow -up core questions ( SAF).  The G NE 
+interv
+----------------------------------------
